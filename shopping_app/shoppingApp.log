@@ -1,0 +1,328 @@
+[main] 2021-08-18 11:00:29 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 11:00:29 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 11:00:29 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 11:00:29 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 11:00:29 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 11:00:29 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 11:00:29 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 11:00:29 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 11:00:33 INFO  com.app.Main  - Under Construction
+[main] 2021-08-18 11:00:33 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 11:00:33 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 11:00:33 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 11:00:33 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 11:00:33 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 11:00:33 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 11:00:34 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-18 11:01:22 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 11:01:22 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 11:01:22 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 11:01:22 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 11:01:22 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 11:01:22 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 11:01:22 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 11:01:22 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 11:01:25 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-18 12:45:19 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 12:45:19 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 12:45:19 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:45:19 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:45:19 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:45:19 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:45:19 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:45:19 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:45:22 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 12:45:22 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 12:45:30 WARN  com.app.Main  - Invalid email : nsinha432@gmail.com
+[main] 2021-08-18 12:45:30 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:45:30 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:45:30 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:45:30 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:45:30 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:45:30 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:48:04 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 12:48:04 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 12:48:04 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:48:04 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:48:04 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:48:04 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:48:04 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:48:04 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:48:06 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 12:48:06 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 12:48:10 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:48:10 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:48:10 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:48:10 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:48:10 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:48:10 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:48:17 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 12:48:17 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 12:48:18 WARN  com.app.Main  - Invalid email : sad
+[main] 2021-08-18 12:48:18 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:48:18 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:48:18 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:48:18 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:48:18 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:48:18 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:48:33 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 12:48:33 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 12:48:33 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:48:33 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:48:33 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:48:33 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:48:33 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:48:33 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:48:35 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 12:48:35 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 12:48:39 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:48:39 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:48:39 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:48:39 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:48:39 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:48:39 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:48:45 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 12:48:45 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 12:48:46 WARN  com.app.Main  - Invalid email : sdadsdd
+[main] 2021-08-18 12:48:46 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:48:46 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:48:46 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:48:46 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:48:46 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:48:46 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:48:52 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 12:48:52 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 12:48:58 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:48:58 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:48:58 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:48:58 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:48:58 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:48:58 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:49:16 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 12:49:16 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 12:49:16 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:49:16 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:49:16 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:49:16 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:49:16 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:49:16 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:49:18 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 12:49:18 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 12:49:46 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:49:46 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:49:46 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:49:46 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:49:46 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:49:46 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:49:48 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 12:49:48 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 12:49:53 WARN  com.app.Main  - Invalid email : sdadasda@ds
+[main] 2021-08-18 12:49:53 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:49:53 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:49:53 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:49:53 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:49:53 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:49:53 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:50:00 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 12:50:00 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 12:50:00 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:50:00 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:50:00 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:50:00 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:50:00 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:50:00 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:50:01 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 12:50:01 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 12:50:07 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:50:07 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:50:07 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:50:07 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:50:07 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:50:07 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:50:16 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 12:50:16 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 12:50:25 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 12:50:25 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 12:50:25 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:50:25 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:50:25 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:50:25 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:50:25 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:50:25 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 12:50:27 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 12:50:27 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 12:50:35 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 12:50:35 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 12:50:35 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 12:50:35 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 12:50:35 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 12:50:35 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 13:00:08 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 13:00:08 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 13:00:08 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 13:00:08 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 13:00:08 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 13:00:08 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 13:00:08 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 13:00:08 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 13:00:10 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 13:00:10 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 13:00:18 WARN  com.app.Main  - Invalid email : nsinha432@gmail.co
+[main] 2021-08-18 13:00:18 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 13:00:18 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 13:00:18 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 13:00:18 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 13:00:18 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 13:00:18 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 13:00:23 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 13:00:23 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 13:00:30 INFO  com.app.Main  - 2.) Enter first name
+[main] 2021-08-18 13:00:33 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 13:00:33 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 13:00:33 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 13:00:33 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 13:00:33 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 13:00:33 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 13:00:37 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 13:00:37 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 13:00:42 INFO  com.app.Main  - 2.) Enter first name
+[main] 2021-08-18 13:00:45 WARN  com.app.Main  - Invalid first name: n
+[main] 2021-08-18 13:00:45 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 13:00:45 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 13:00:45 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 13:00:45 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 13:00:45 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 13:00:45 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 13:11:16 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 13:11:16 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 13:11:16 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 13:11:16 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 13:11:16 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 13:11:16 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 13:11:16 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 13:11:16 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 13:11:20 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-18 13:11:20 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 13:11:26 INFO  com.app.Main  - 2.) Enter first name
+[main] 2021-08-18 13:11:28 INFO  com.app.Main  - 3.) Enter last name
+[main] 2021-08-18 13:11:30 INFO  com.app.Main  - 4.) Enter password
+[main] 2021-08-18 13:11:39 INFO  com.app.Main  - Customer created Successfully
+[main] 2021-08-18 13:11:39 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 13:11:39 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 13:11:39 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 13:11:39 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 13:11:39 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 13:11:39 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 14:24:51 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 14:24:51 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 14:24:51 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 14:24:51 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 14:24:51 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 14:24:51 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 14:24:51 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 14:24:51 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 14:24:53 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-18 14:24:53 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 14:25:01 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-18 14:25:05 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-18 14:25:05 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 14:25:05 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 14:25:05 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 14:25:05 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 14:25:05 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 14:25:05 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 14:27:50 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-18 14:27:50 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 14:27:57 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-18 14:28:00 WARN  com.app.Main  - User not found... Please register yourself!
+[main] 2021-08-18 14:28:00 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 14:28:00 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 14:28:00 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 14:28:00 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 14:28:00 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 14:28:00 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 14:28:10 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-18 14:39:52 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-18 14:39:52 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-18 14:39:52 INFO  com.app.Main  - Please login: 
+[main] 2021-08-18 14:39:52 INFO  com.app.Main  - 
+1.) Associate Login
+[main] 2021-08-18 14:39:52 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-18 14:39:52 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-18 14:39:52 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-18 14:39:52 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-18 14:39:56 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-18 14:39:56 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-18 14:40:02 INFO  com.app.Main  - 2.) Enter password

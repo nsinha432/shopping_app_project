@@ -1,0 +1,45 @@
+package com.app.dao.impl;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import com.app.dao.CustomerLoginDAO;
+import com.app.dao.dbutil.MysqlDbConnection;
+import com.app.exception.BusinessException;
+
+public class CustomerLoginDAOImpl implements CustomerLoginDAO{
+
+	@Override
+	public boolean loginCustomer(String email, String password) throws BusinessException {
+		
+		boolean c = false;
+		
+		try(Connection connection = MysqlDbConnection.getConnection()) {
+			
+			String sql = "SELECT email, password FROM customer";
+			
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			
+			ResultSet resultSet = preparedStatement.executeQuery();
+			
+			while(resultSet.next()) {
+				if(email.equals(resultSet.getString("email")) && password.equals(resultSet.getString("password"))) {
+					c = true;
+					break;
+				}
+			}
+			
+			if(!c) {
+				throw new BusinessException("User not found... Please register yourself!");
+			}
+			
+		} catch (ClassNotFoundException | SQLException e) {
+			throw new BusinessException("Internal Server error occured");
+		}
+		
+		return c;
+	}
+
+}
