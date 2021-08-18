@@ -16,7 +16,7 @@ public class CustomerLoginDAOImpl implements CustomerLoginDAO{
 	@Override
 	public Customer loginCustomer(String email, String password) throws BusinessException {
 		
-		Customer customer = new Customer();
+		Customer customer = null;
 		
 		boolean c = false;
 		
@@ -31,6 +31,7 @@ public class CustomerLoginDAOImpl implements CustomerLoginDAO{
 			while(resultSet.next()) {
 				if(email.equals(resultSet.getString("email")) && password.equals(resultSet.getString("password"))) {
 					c = true;
+					customer = new Customer();
 					
 					customer.setEmail(email);
 					customer.setFname(resultSet.getString("fname"));
