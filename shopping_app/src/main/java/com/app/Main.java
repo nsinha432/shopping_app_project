@@ -392,14 +392,14 @@ public class Main {
 								try {
 									List<Customer> customerListf = customerSearchDAO.getCustomersByFname(fname);
 									if (customerListf.size() > 0) {
-										log.info("There are : " + customerListf.size() + " customers with the First Name: "
-												+ fname);
+										log.info("There are : " + customerListf.size()
+												+ " customers with the First Name: " + fname);
 										log.info("Printing their details:");
-										
-										for(Customer customer:customerListf) {
+
+										for (Customer customer : customerListf) {
 											log.info("\nCustomer's email :" + customer.getEmail()
-											+ ", Customer's First Name: " + customer.getFname()
-											+ ", Customer's Last Name: " + customer.getLname());
+													+ ", Customer's First Name: " + customer.getFname()
+													+ ", Customer's Last Name: " + customer.getLname());
 										}
 									}
 
@@ -422,25 +422,25 @@ public class Main {
 									log.warn(e.getMessage());
 									continue;
 								}
-								
+
 								try {
 									List<Customer> customerListl = customerSearchDAO.getCustomersByLname(lname);
 									if (customerListl.size() > 0) {
-										log.info("There are : " + customerListl.size() + " customers with the Last Name: "
-												+ lname);
+										log.info("There are : " + customerListl.size()
+												+ " customers with the Last Name: " + lname);
 										log.info("Printing their details:");
-										
-										for(Customer customer:customerListl) {
+
+										for (Customer customer : customerListl) {
 											log.info("\nCustomer's email :" + customer.getEmail()
-											+ ", Customer's First Name: " + customer.getFname()
-											+ ", Customer's Last Name: " + customer.getLname());
+													+ ", Customer's First Name: " + customer.getFname()
+													+ ", Customer's Last Name: " + customer.getLname());
 										}
 									}
 
 								} catch (BusinessException e1) {
 									log.warn(e1.getMessage());
 								}
-								
+
 								break;
 
 							case 4:
@@ -709,7 +709,8 @@ public class Main {
 
 					log.info("1.) Search products");
 					log.info("2.) View your orders");
-					log.info("3.) Logout");
+					log.info("3.) View Cart total");
+					log.info("4.) Logout");
 
 					log.info("\nPlease enter your choice");
 
@@ -1016,6 +1017,24 @@ public class Main {
 						break;
 
 					case 3:
+						log.info("Printing Cart total:");
+						CartDAO cartDAO2 = new CartDAOImpl();
+						int cost = 0;
+						
+						try {
+							cost = cartDAO2.cartTotal(customerlogin.getEmail());
+							
+							if(cost>0) {
+								log.info("The total bill of your cart is: "+cost);
+							}
+							
+						} catch (BusinessException e) {
+							log.warn(e.getMessage());
+						}
+						
+						break;
+
+					case 4:
 						log.info("Logging you out...");
 
 						break;
@@ -1025,7 +1044,7 @@ public class Main {
 					// break;
 					}
 
-				} while (choice1 != 3);
+				} while (choice1 != 4);
 
 				break;
 

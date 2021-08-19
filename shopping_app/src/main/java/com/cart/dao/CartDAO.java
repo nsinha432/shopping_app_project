@@ -19,4 +19,6 @@ public interface CartDAO {
 	
 	public int updateOrderCustomer(int orderId) throws BusinessException;
 	
+	public int cartTotal(String email) throws BusinessException;
+	
 }
