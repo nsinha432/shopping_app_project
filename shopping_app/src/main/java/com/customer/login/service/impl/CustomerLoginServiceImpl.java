@@ -27,7 +27,7 @@ public class CustomerLoginServiceImpl implements CustomerLoginService{
 			c = true;
 		}
 		else {
-			throw new BusinessException("Invalid password: "+password);
+			throw new BusinessException("Invalid password");
 		}
 		
 		return c;

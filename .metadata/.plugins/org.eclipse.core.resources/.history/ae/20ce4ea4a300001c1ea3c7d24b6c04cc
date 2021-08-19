@@ -1,0 +1,5 @@
+package com.product.create.service;
+
+public interface ProductCreateService {
+
+}

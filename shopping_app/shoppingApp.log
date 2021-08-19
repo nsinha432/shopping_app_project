@@ -1055,3 +1055,1580 @@ Please enter your choice
 [main] 2021-08-18 23:36:16 INFO  com.app.Main  - 
  Please enter your choice: 
 [main] 2021-08-18 23:36:18 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 00:06:27 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 00:06:27 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 00:06:27 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 00:06:27 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 00:06:27 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 00:06:27 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 00:06:27 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 00:06:27 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 00:06:33 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 00:06:33 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 00:06:37 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 00:06:39 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 00:06:39 INFO  com.app.Main  - Welcome associate
+[main] 2021-08-19 00:06:39 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 00:06:39 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 00:06:39 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 00:06:39 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 00:06:39 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 00:06:39 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 00:06:44 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 00:06:44 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 00:06:46 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 00:06:49 WARN  com.app.Main  - Invalid password
+[main] 2021-08-19 00:06:49 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 00:06:49 INFO  com.app.Main  - Welcome associate
+[main] 2021-08-19 00:06:49 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 00:06:49 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 00:06:49 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 00:06:49 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 00:06:49 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 00:06:49 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 00:07:33 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 00:07:33 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 00:07:33 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 00:07:33 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 00:07:33 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 00:07:33 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 00:07:33 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 00:07:33 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 00:07:42 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 00:07:42 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 00:07:43 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 00:07:45 WARN  com.app.Main  - Invalid password
+[main] 2021-08-19 00:07:45 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 00:07:45 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 00:07:45 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 00:07:45 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 00:07:45 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 00:07:45 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 00:07:48 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 00:07:48 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 00:07:50 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 00:07:52 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 00:07:52 INFO  com.app.Main  - Welcome associate
+[main] 2021-08-19 00:07:52 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 00:07:52 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 00:07:52 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 00:07:52 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 00:07:52 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 00:07:52 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 09:25:23 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 09:25:23 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 09:25:23 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 09:25:23 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 09:25:23 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 09:25:23 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 09:25:23 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 09:25:23 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 09:25:29 WARN  com.app.Main  - Invalid choice! The choice should only be a number between 1-4. Please try again.
+[main] 2021-08-19 09:25:29 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 09:25:29 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 09:25:29 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 09:25:29 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 09:25:29 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 09:25:29 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 09:25:35 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 09:25:35 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 09:25:39 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 09:25:42 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 09:25:42 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 09:25:42 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 09:25:42 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 09:25:42 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 09:25:42 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 09:25:43 WARN  com.app.Main  - Please enter a number between 1 and 3 only.
+[main] 2021-08-19 09:25:43 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 09:25:43 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 09:25:43 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 09:25:43 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 09:25:52 INFO  com.app.Main  - Welcome to Product Search
+[main] 2021-08-19 09:25:52 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-19 09:25:52 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-19 09:25:52 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-19 09:25:52 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-19 09:25:52 INFO  com.app.Main  - 4.) Return back to the previous menu
+[main] 2021-08-19 09:25:52 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-19 09:25:54 WARN  com.app.Main  - Please enter a number between 1 and 4 only
+[main] 2021-08-19 09:25:54 INFO  com.app.Main  - Welcome to Product Search
+[main] 2021-08-19 09:25:54 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-19 09:25:54 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-19 09:25:54 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-19 09:25:54 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-19 09:25:54 INFO  com.app.Main  - 4.) Return back to the previous menu
+[main] 2021-08-19 09:25:54 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-19 09:26:01 INFO  com.app.Main  - Taking you to the previous menu...
+[main] 2021-08-19 09:26:01 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 09:26:01 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 09:26:01 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 09:26:01 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - Logging you out...
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 09:26:02 WARN  com.app.Main  - Please enter a digit between 1 and 4 only
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 09:26:02 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 09:26:04 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 09:26:31 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 09:26:31 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 09:26:31 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 09:26:31 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 09:26:31 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 09:26:31 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 09:26:31 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 09:26:31 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 09:26:33 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 09:26:33 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 09:26:37 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 09:26:40 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 09:26:40 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 09:26:40 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 09:26:40 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 09:26:40 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 09:26:40 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 09:26:40 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 09:26:40 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 09:26:47 INFO  com.app.Main  - Okay admin, Logging you out...
+[main] 2021-08-19 09:26:47 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 09:26:47 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 09:26:47 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 09:26:47 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 09:26:47 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 09:26:47 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 09:26:50 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 09:58:45 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 09:58:45 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 09:58:45 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 09:58:45 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 09:58:45 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 09:58:45 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 09:58:45 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 09:58:45 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 09:58:51 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 09:58:51 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 09:58:53 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 09:58:53 WARN  com.app.Main  - Invalid password
+[main] 2021-08-19 09:58:53 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 09:58:53 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 09:58:53 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 09:58:53 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 09:58:53 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 09:58:53 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 09:58:56 WARN  com.app.Main  - Please enter a digit between 1 and 5 only
+[main] 2021-08-19 09:58:56 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 09:58:56 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 09:58:56 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 09:58:56 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 09:58:56 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 09:58:56 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 09:59:00 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 09:59:00 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 09:59:03 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 09:59:06 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 09:59:06 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 09:59:06 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 09:59:06 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 09:59:06 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 09:59:06 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 09:59:06 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 09:59:06 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 09:59:09 INFO  com.app.Main  - Enter the Product details to be added to the app: 
+[main] 2021-08-19 09:59:09 INFO  com.app.Main  - Enter Product Name:
+[main] 2021-08-19 10:00:35 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 10:00:35 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 10:00:35 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:00:35 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:00:35 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:00:35 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:00:35 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:00:35 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:00:37 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 10:00:37 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 10:00:39 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 10:00:41 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 10:00:41 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 10:00:41 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 10:00:41 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 10:00:41 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 10:00:41 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 10:00:41 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 10:00:41 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 10:00:43 INFO  com.app.Main  - Enter the Product details to be added to the app: 
+[main] 2021-08-19 10:00:43 INFO  com.app.Main  - 1.) Enter Product ID:
+[main] 2021-08-19 10:00:45 INFO  com.app.Main  - 2.) Enter Product Name
+[main] 2021-08-19 10:00:52 INFO  com.app.Main  - 3.) Enter Product Price
+[main] 2021-08-19 10:00:55 WARN  com.app.Main  - Invalid price entered : 0
+[main] 2021-08-19 10:00:55 INFO  com.app.Main  - Product Created Successfully with the details: 
+[main] 2021-08-19 10:00:55 INFO  com.app.Main  - Product Details: [ID=500, Name=Book, Price=0]
+[main] 2021-08-19 10:00:55 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:00:55 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:00:55 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:00:55 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:00:55 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:00:55 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:03:44 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 10:03:44 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 10:03:44 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:03:44 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:03:44 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:03:44 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:03:44 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:03:44 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:04:01 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 10:04:01 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 10:04:04 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 10:04:06 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 10:04:06 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 10:04:06 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 10:04:06 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 10:04:06 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 10:04:06 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 10:04:06 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 10:04:06 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 10:04:09 INFO  com.app.Main  - Enter the Product details to be added to the app: 
+[main] 2021-08-19 10:04:09 INFO  com.app.Main  - 1.) Enter Product ID:
+[main] 2021-08-19 10:04:13 WARN  com.app.Main  - Invalid ID: 300 entered
+[main] 2021-08-19 10:04:13 INFO  com.app.Main  - 2.) Enter Product Name
+[main] 2021-08-19 10:04:19 WARN  com.app.Main  - Invalid name : 3 entered
+[main] 2021-08-19 10:04:19 INFO  com.app.Main  - 3.) Enter Product Price
+[main] 2021-08-19 10:04:30 INFO  com.app.Main  - Product Created Successfully with the details: 
+[main] 2021-08-19 10:04:30 INFO  com.app.Main  - Product Details: [ID=300, Name=3, Price=565]
+[main] 2021-08-19 10:04:30 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:04:30 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:04:30 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:04:30 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:04:30 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:04:30 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:06:18 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 10:06:18 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 10:06:18 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:06:18 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:06:18 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:06:18 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:06:18 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:06:18 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:06:22 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 10:06:22 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 10:06:24 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 10:06:24 WARN  com.app.Main  - Invalid password
+[main] 2021-08-19 10:06:24 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 10:06:24 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 10:06:24 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 10:06:24 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 10:06:24 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 10:06:24 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 10:06:42 INFO  com.app.Main  - Okay admin, Logging you out...
+[main] 2021-08-19 10:06:42 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:06:42 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:06:42 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:06:42 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:06:42 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:06:42 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:06:43 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 10:07:27 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 10:07:27 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 10:07:27 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:07:27 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:07:27 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:07:27 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:07:27 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:07:27 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:07:29 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 10:07:29 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 10:07:31 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 10:07:32 WARN  com.app.Main  - Invalid password
+[main] 2021-08-19 10:07:32 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:07:32 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:07:32 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:07:32 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:07:32 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:07:32 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:07:34 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 10:07:34 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 10:07:36 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 10:07:38 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 10:07:38 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 10:07:38 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 10:07:38 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 10:07:38 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 10:07:38 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 10:07:38 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 10:07:38 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 10:07:40 INFO  com.app.Main  - Enter the Product details to be added to the app: 
+[main] 2021-08-19 10:07:40 INFO  com.app.Main  - 1.) Enter Product ID:
+[main] 2021-08-19 10:07:42 INFO  com.app.Main  - 2.) Enter Product Name
+[main] 2021-08-19 10:07:45 INFO  com.app.Main  - 3.) Enter Product Price
+[main] 2021-08-19 10:07:48 INFO  com.app.Main  - Product Created Successfully with the details: 
+[main] 2021-08-19 10:07:48 INFO  com.app.Main  - Product Details: [ID=3, Name=Book, Price=500]
+[main] 2021-08-19 10:07:48 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:07:48 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:07:48 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:07:48 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:07:48 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:07:48 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:08:48 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 10:08:48 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 10:08:48 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:08:48 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:08:48 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:08:48 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:08:48 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:08:48 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:08:50 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 10:08:50 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 10:08:52 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 10:08:55 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 10:08:55 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 10:08:55 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 10:08:55 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 10:08:55 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 10:08:55 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 10:08:55 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 10:08:55 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 10:08:57 INFO  com.app.Main  - Enter the Product details to be added to the app: 
+[main] 2021-08-19 10:08:57 INFO  com.app.Main  - 1.) Enter Product ID:
+[main] 2021-08-19 10:08:58 INFO  com.app.Main  - 2.) Enter Product Name
+[main] 2021-08-19 10:09:00 INFO  com.app.Main  - 3.) Enter Product Price
+[main] 2021-08-19 10:09:02 INFO  com.app.Main  - Product Created Successfully with the details: 
+[main] 2021-08-19 10:09:02 INFO  com.app.Main  - Product Details: [ID=3, Name=Book, Price=500]
+[main] 2021-08-19 10:09:02 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:09:02 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:09:02 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:09:02 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:09:02 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:09:02 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:09:45 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 10:09:45 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 10:09:45 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:09:45 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:09:45 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:09:45 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:09:45 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:09:45 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:09:53 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 10:11:10 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 10:11:10 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 10:11:10 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:11:10 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:11:10 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:11:10 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:11:10 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:11:10 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:11:11 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 10:11:11 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 10:11:12 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 10:11:15 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 10:11:15 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 10:11:15 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 10:11:15 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 10:11:15 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 10:11:15 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 10:11:15 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 10:11:15 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 10:11:17 INFO  com.app.Main  - Enter the Product details to be added to the app: 
+[main] 2021-08-19 10:11:17 INFO  com.app.Main  - 1.) Enter Product ID:
+[main] 2021-08-19 10:11:18 INFO  com.app.Main  - 2.) Enter Product Name
+[main] 2021-08-19 10:11:20 INFO  com.app.Main  - 3.) Enter Product Price
+[main] 2021-08-19 10:11:22 INFO  com.app.Main  - Product Created Successfully with the details: 
+[main] 2021-08-19 10:11:22 INFO  com.app.Main  - Product Details: [ID=3, Name=Book, Price=500]
+[main] 2021-08-19 10:11:22 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:11:22 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:11:22 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:11:22 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:11:22 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:11:22 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:11:31 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 10:11:43 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 10:11:43 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 10:11:43 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:11:43 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:11:43 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:11:43 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:11:43 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:11:43 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:11:45 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 10:11:45 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 10:11:54 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 10:11:58 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 10:11:58 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 10:11:58 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 10:11:58 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 10:11:58 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 10:11:58 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 10:12:05 INFO  com.app.Main  - Welcome to Product Search
+[main] 2021-08-19 10:12:05 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-19 10:12:05 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-19 10:12:05 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-19 10:12:05 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-19 10:12:05 INFO  com.app.Main  - 4.) Return back to the previous menu
+[main] 2021-08-19 10:12:05 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-19 10:12:08 INFO  com.app.Main  - All the available products are listed below
+[main] 2021-08-19 10:12:08 INFO  com.app.Main  - Product Details: [ID=1, Name=TV, Price=20000]
+[main] 2021-08-19 10:12:08 INFO  com.app.Main  - Product Details: [ID=2, Name=Mobile, Price=12000]
+[main] 2021-08-19 10:12:08 INFO  com.app.Main  - Product Details: [ID=3, Name=Book, Price=500]
+[main] 2021-08-19 10:12:08 INFO  com.app.Main  - Welcome to Product Search
+[main] 2021-08-19 10:12:08 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-19 10:12:08 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-19 10:12:08 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-19 10:12:08 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-19 10:12:08 INFO  com.app.Main  - 4.) Return back to the previous menu
+[main] 2021-08-19 10:12:08 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-19 10:15:38 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 10:15:38 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 10:15:38 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:15:38 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:15:38 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:15:38 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:15:38 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:15:38 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:15:41 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 10:15:41 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 10:15:48 WARN  com.app.Main  - Invalid username : sdadasdadadadaddawdwadadwadawdawdawdaw
+[main] 2021-08-19 10:15:48 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:15:48 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:15:48 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:15:48 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:15:48 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:15:48 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:15:56 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 10:17:10 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 10:17:10 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 10:17:10 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:17:10 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:17:10 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:17:10 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:17:10 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:17:10 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:17:11 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 10:17:11 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 10:17:13 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 10:17:16 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 10:17:16 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 10:17:16 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 10:17:16 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 10:17:16 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 10:17:16 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 10:17:16 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 10:17:16 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 10:17:18 INFO  com.app.Main  - Enter the Product details to be added to the app: 
+[main] 2021-08-19 10:17:18 INFO  com.app.Main  - 1.) Enter Product ID:
+[main] 2021-08-19 10:17:19 INFO  com.app.Main  - 2.) Enter Product Name
+[main] 2021-08-19 10:17:21 INFO  com.app.Main  - 3.) Enter Product Price
+[main] 2021-08-19 10:17:26 INFO  com.app.Main  - Product Created Successfully with the details: 
+[main] 2021-08-19 10:17:26 INFO  com.app.Main  - Product Details: [ID=3, Name=Book, Price=500]
+[main] 2021-08-19 10:17:26 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 10:17:26 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 10:17:26 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 10:17:26 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 10:17:26 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 10:17:26 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 10:17:39 INFO  com.app.Main  - Okay admin, Logging you out...
+[main] 2021-08-19 10:17:39 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:17:39 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:17:39 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:17:39 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:17:39 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:17:39 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:17:40 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 10:56:37 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 10:56:37 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 10:56:37 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:56:37 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:56:37 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:56:37 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:56:37 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:56:37 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:56:46 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 10:56:46 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 10:56:53 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 10:56:58 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 10:56:58 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 10:56:58 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 10:56:58 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 10:56:58 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 10:56:58 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 10:57:03 INFO  com.app.Main  - Welcome to Product Search
+[main] 2021-08-19 10:57:03 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-19 10:57:03 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-19 10:57:03 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-19 10:57:03 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-19 10:57:03 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-19 10:57:03 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-19 10:57:03 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-19 10:57:05 INFO  com.app.Main  - Enter product ID to add to cart:
+[main] 2021-08-19 10:57:05 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 10:57:05 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 10:57:05 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 10:57:05 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 10:57:18 INFO  com.app.Main  - Logging you out...
+[main] 2021-08-19 10:57:18 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 10:57:18 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 10:57:18 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 10:57:18 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 10:57:18 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 10:57:18 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 10:57:18 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 12:43:46 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 12:43:46 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 12:43:46 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 12:43:46 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 12:43:46 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 12:43:46 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 12:43:46 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 12:43:46 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 12:43:50 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 12:43:50 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 12:43:54 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 12:43:57 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 12:43:57 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 12:43:57 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 12:43:57 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 12:43:57 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 12:43:57 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 12:44:04 INFO  com.app.Main  - Welcome to Product Search
+[main] 2021-08-19 12:44:04 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-19 12:44:04 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-19 12:44:04 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-19 12:44:04 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-19 12:44:04 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-19 12:44:04 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-19 12:44:04 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-19 12:44:07 INFO  com.app.Main  - Enter product ID to add to cart:
+[main] 2021-08-19 12:44:07 INFO  com.app.Main  - nsinha432@gmail.com
+[main] 2021-08-19 12:44:07 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 12:44:07 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 12:44:07 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 12:44:07 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 12:44:16 INFO  com.app.Main  - Logging you out...
+[main] 2021-08-19 12:44:16 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 12:44:16 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 12:44:16 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 12:44:16 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 12:44:16 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 12:44:16 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 12:44:18 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 13:08:40 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 13:08:40 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 13:08:40 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:08:40 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:08:40 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:08:40 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:08:40 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:08:40 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:08:43 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 13:08:43 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 13:09:07 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 13:09:12 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 13:09:12 INFO  com.app.Main  - Hello ravi kumar
+What would you like to do today?
+[main] 2021-08-19 13:09:12 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 13:09:12 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 13:09:12 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 13:09:12 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 13:09:18 INFO  com.app.Main  - Welcome to Product Search
+[main] 2021-08-19 13:09:18 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-19 13:09:18 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-19 13:09:18 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-19 13:09:18 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-19 13:09:18 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-19 13:09:18 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-19 13:09:18 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - All the available products are listed below
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - Product Details: [ID=1, Name=TV, Price=20000]
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - Product Details: [ID=2, Name=Mobile, Price=12000]
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - Product Details: [ID=3, Name=Book, Price=500]
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - Welcome to Product Search
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-19 13:09:20 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-19 13:09:29 INFO  com.app.Main  - Enter product ID to add to cart:
+[main] 2021-08-19 13:09:41 INFO  com.app.Main  - Product added to cart successfully
+[main] 2021-08-19 13:09:41 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 13:09:41 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 13:09:41 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 13:09:41 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 13:12:42 INFO  com.app.Main  - Logging you out...
+[main] 2021-08-19 13:12:42 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:12:42 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:12:42 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:12:42 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:12:42 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:12:42 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:12:43 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 13:20:30 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 13:20:30 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 13:20:30 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:20:30 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:20:30 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:20:30 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:20:30 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:20:30 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:20:35 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 13:20:35 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 13:20:39 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 13:20:42 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 13:20:42 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 13:20:42 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 13:20:42 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 13:20:42 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 13:20:42 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 13:20:46 INFO  com.app.Main  - Welcome to Product Search
+[main] 2021-08-19 13:20:46 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-19 13:20:46 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-19 13:20:46 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-19 13:20:46 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-19 13:20:46 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-19 13:20:46 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-19 13:20:46 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-19 13:20:49 INFO  com.app.Main  - Enter product ID to add to cart:
+[main] 2021-08-19 13:20:53 INFO  com.app.Main  - Product added to cart successfully with Order ID : 4
+[main] 2021-08-19 13:20:53 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 13:20:53 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 13:20:53 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 13:20:53 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 13:21:46 INFO  com.app.Main  - Logging you out...
+[main] 2021-08-19 13:21:46 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:21:46 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:21:46 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:21:46 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:21:46 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:21:46 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:21:47 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 13:39:19 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 13:39:19 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 13:39:19 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:39:19 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:39:19 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:39:19 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:39:19 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:39:19 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:39:21 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 13:39:21 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 13:39:28 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 13:39:30 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 13:39:30 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 13:39:30 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 13:39:30 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 13:39:30 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 13:39:30 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 13:39:30 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 13:39:30 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 13:39:33 INFO  com.app.Main  - Showing all orders
+[main] 2021-08-19 13:39:33 INFO  com.app.Main  - There are: 3orders : 
+[main] 2021-08-19 13:39:33 INFO  com.app.Main  - Cart [orderid=1, tracker=Delivery, customer=Customer [email=nsinha432@gmail.com, fname=null, lname=null, password=null], product=Product Details: [ID=3, Name=null, Price=0]]
+[main] 2021-08-19 13:39:33 INFO  com.app.Main  - Cart [orderid=3, tracker=In stock, customer=Customer [email=nikhil@gmail.com, fname=null, lname=null, password=null], product=Product Details: [ID=2, Name=null, Price=0]]
+[main] 2021-08-19 13:39:33 INFO  com.app.Main  - Cart [orderid=4, tracker=In stock, customer=Customer [email=nsinha432@gmail.com, fname=null, lname=null, password=null], product=Product Details: [ID=2, Name=null, Price=0]]
+[main] 2021-08-19 13:39:33 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 13:39:33 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 13:39:33 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 13:39:33 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 13:39:33 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 13:39:33 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 13:39:41 INFO  com.app.Main  - Okay admin, Logging you out...
+[main] 2021-08-19 13:39:41 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:39:41 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:39:41 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:39:41 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:39:41 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:39:41 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:39:42 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 13:42:51 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 13:42:51 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 13:42:51 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:42:51 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:42:51 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:42:51 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:42:51 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:42:51 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:42:53 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 13:42:53 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 13:42:57 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 13:42:59 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 13:42:59 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 13:42:59 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 13:42:59 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 13:42:59 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 13:42:59 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 13:43:53 INFO  com.app.Main  - Logging you out...
+[main] 2021-08-19 13:43:53 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:43:53 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:43:53 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:43:53 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:43:53 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:43:53 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:43:54 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 13:44:25 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 13:44:25 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 13:44:25 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:44:25 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:44:25 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:44:25 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:44:25 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:44:25 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:44:26 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 13:44:26 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 13:44:27 WARN  com.app.Main  - Invalid username : admin 
+[main] 2021-08-19 13:44:27 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:44:27 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:44:27 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:44:27 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:44:27 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:44:27 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:44:33 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 13:44:33 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 13:44:35 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 13:44:37 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 13:44:37 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 13:44:37 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 13:44:37 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 13:44:37 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 13:44:37 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 13:44:37 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 13:44:37 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 13:44:41 INFO  com.app.Main  - Showing all orders
+[main] 2021-08-19 13:44:41 INFO  com.app.Main  - There are: 3 orders :
+[main] 2021-08-19 13:44:41 INFO  com.app.Main  - Cart [orderid=1, tracker=Delivery, customer=Customer [email=nsinha432@gmail.com, fname=null, lname=null, password=null], product=Product Details: [ID=3, Name=null, Price=0]]
+[main] 2021-08-19 13:44:41 INFO  com.app.Main  - Cart [orderid=3, tracker=In stock, customer=Customer [email=nikhil@gmail.com, fname=null, lname=null, password=null], product=Product Details: [ID=2, Name=null, Price=0]]
+[main] 2021-08-19 13:44:41 INFO  com.app.Main  - Cart [orderid=4, tracker=In stock, customer=Customer [email=nsinha432@gmail.com, fname=null, lname=null, password=null], product=Product Details: [ID=2, Name=null, Price=0]]
+[main] 2021-08-19 13:44:41 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 13:44:41 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 13:44:41 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 13:44:41 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 13:44:41 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 13:44:41 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 13:45:38 INFO  com.app.Main  - Okay admin, Logging you out...
+[main] 2021-08-19 13:45:38 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:45:38 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:45:38 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:45:38 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:45:38 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:45:38 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:45:40 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 13:51:19 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 13:51:19 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 13:51:19 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:51:19 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:51:19 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:51:19 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:51:19 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:51:19 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 13:51:28 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 13:51:28 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 13:51:29 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 13:51:32 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 13:51:32 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 13:51:32 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 13:51:32 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 13:51:32 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 13:51:32 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 13:51:32 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 13:51:32 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 13:51:35 INFO  com.app.Main  - Showing all orders
+[main] 2021-08-19 13:51:36 INFO  com.app.Main  - There are: 3 orders :
+[main] 2021-08-19 13:51:36 INFO  com.app.Main  - Order ID : 1, Customer email: nsinha432@gmail.com, Product ID: 3, Order Status: Delivery
+[main] 2021-08-19 13:51:36 INFO  com.app.Main  - Order ID : 3, Customer email: nikhil@gmail.com, Product ID: 2, Order Status: In stock
+[main] 2021-08-19 13:51:36 INFO  com.app.Main  - Order ID : 4, Customer email: nsinha432@gmail.com, Product ID: 2, Order Status: In stock
+[main] 2021-08-19 13:51:36 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 13:51:36 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 13:51:36 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 13:51:36 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 13:51:36 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 13:51:36 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 13:52:00 INFO  com.app.Main  - Okay admin, Logging you out...
+[main] 2021-08-19 13:52:00 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 13:52:00 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 13:52:00 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 13:52:00 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 13:52:00 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 13:52:00 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:08:21 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:08:21 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:08:21 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:08:21 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:08:21 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:08:21 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:08:21 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:08:21 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:08:25 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 14:08:25 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 14:08:26 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:08:28 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 14:08:28 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 14:08:28 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 14:08:28 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 14:08:28 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 14:08:28 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 14:08:28 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 14:08:28 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 14:08:32 INFO  com.app.Main  - Showing all orders
+[main] 2021-08-19 14:08:33 INFO  com.app.Main  - There are: 3 orders :
+[main] 2021-08-19 14:08:33 INFO  com.app.Main  - Cart [orderid=1, tracker=Delivery, customer=Customer [email=nsinha432@gmail.com, fname=nikhil, lname=sinha, password=null], product=Product Details: [ID=3, Name=Book, Price=500]]
+[main] 2021-08-19 14:08:33 INFO  com.app.Main  - Cart [orderid=3, tracker=In stock, customer=Customer [email=nikhil@gmail.com, fname=ravi, lname=kumar, password=null], product=Product Details: [ID=2, Name=Mobile, Price=12000]]
+[main] 2021-08-19 14:08:33 INFO  com.app.Main  - Cart [orderid=4, tracker=In stock, customer=Customer [email=nsinha432@gmail.com, fname=nikhil, lname=sinha, password=null], product=Product Details: [ID=2, Name=Mobile, Price=12000]]
+[main] 2021-08-19 14:08:33 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 14:08:33 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 14:08:33 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 14:08:33 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 14:08:33 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 14:08:33 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 14:16:33 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:16:33 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:16:33 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:16:33 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:16:33 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:16:33 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:16:33 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:16:33 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:16:34 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 14:16:34 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 14:16:36 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:16:45 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 14:16:45 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 14:16:45 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 14:16:45 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 14:16:45 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 14:16:45 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 14:16:45 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 14:16:45 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 14:16:47 INFO  com.app.Main  - Showing all orders
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - There are: 3 orders :
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Delivery
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - Cart [orderid=1, tracker=Delivery, customer=Customer [email=nsinha432@gmail.com, fname=nikhil, lname=sinha, password=null], product=Product Details: [ID=3, Name=Book, Price=500]]
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - Order ID : 3, Customer email: nikhil@gmail.com, Customer's First Name: ravi, Customer's Last Name: kumar, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - Cart [orderid=3, tracker=In stock, customer=Customer [email=nikhil@gmail.com, fname=ravi, lname=kumar, password=null], product=Product Details: [ID=2, Name=Mobile, Price=12000]]
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - Cart [orderid=4, tracker=In stock, customer=Customer [email=nsinha432@gmail.com, fname=nikhil, lname=sinha, password=null], product=Product Details: [ID=2, Name=Mobile, Price=12000]]
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 14:16:48 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 14:17:11 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:17:11 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:17:11 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:17:11 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:17:11 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:17:11 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:17:11 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:17:11 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:17:12 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 14:17:12 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 14:17:13 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:17:15 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 14:17:15 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 14:17:15 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 14:17:15 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 14:17:15 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 14:17:15 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 14:17:15 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 14:17:15 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 14:17:17 INFO  com.app.Main  - Showing all orders
+[main] 2021-08-19 14:17:18 INFO  com.app.Main  - There are: 3 orders :
+[main] 2021-08-19 14:17:18 INFO  com.app.Main  - Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Delivery
+[main] 2021-08-19 14:17:18 INFO  com.app.Main  - Order ID : 3, Customer email: nikhil@gmail.com, Customer's First Name: ravi, Customer's Last Name: kumar, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 14:17:18 INFO  com.app.Main  - Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 14:17:18 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 14:17:18 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 14:17:18 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 14:17:18 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 14:17:18 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 14:17:18 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 14:18:59 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:18:59 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:18:59 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:18:59 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:18:59 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:18:59 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:18:59 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:18:59 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:19:01 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 14:19:01 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 14:19:03 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:19:05 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 14:19:05 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 14:19:05 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 14:19:05 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 14:19:05 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 14:19:05 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 14:19:05 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 14:19:05 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 14:19:06 INFO  com.app.Main  - Showing all orders
+[main] 2021-08-19 14:19:06 INFO  com.app.Main  - There are: 3 orders :
+[main] 2021-08-19 14:19:06 INFO  com.app.Main  - 
+ 1- Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Delivery
+[main] 2021-08-19 14:19:06 INFO  com.app.Main  - 
+ 1- Order ID : 3, Customer email: nikhil@gmail.com, Customer's First Name: ravi, Customer's Last Name: kumar, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 14:19:06 INFO  com.app.Main  - 
+ 1- Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 14:19:06 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 14:19:06 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 14:19:06 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 14:19:06 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 14:19:06 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 14:19:06 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 14:19:57 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:19:57 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:19:57 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:19:57 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:19:57 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:19:57 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:19:57 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:19:57 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:19:58 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-19 14:19:58 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-19 14:19:59 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:20:01 INFO  com.app.Main  - Associate login successful!
+[main] 2021-08-19 14:20:01 INFO  com.app.Main  - Welcome
+[main] 2021-08-19 14:20:01 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 14:20:01 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 14:20:01 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 14:20:01 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 14:20:01 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 14:20:01 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 14:20:03 INFO  com.app.Main  - Showing all orders
+[main] 2021-08-19 14:20:04 INFO  com.app.Main  - There are: 3 orders :
+[main] 2021-08-19 14:20:04 INFO  com.app.Main  - 
+  Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Delivery
+[main] 2021-08-19 14:20:04 INFO  com.app.Main  - 
+  Order ID : 3, Customer email: nikhil@gmail.com, Customer's First Name: ravi, Customer's Last Name: kumar, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 14:20:04 INFO  com.app.Main  - 
+  Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 14:20:04 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-19 14:20:04 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-19 14:20:04 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-19 14:20:04 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-19 14:20:04 INFO  com.app.Main  - 4.) View all orders
+[main] 2021-08-19 14:20:04 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-19 14:20:21 INFO  com.app.Main  - Okay admin, Logging you out...
+[main] 2021-08-19 14:20:21 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:20:21 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:20:21 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:20:21 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:20:21 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:20:21 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:20:23 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 14:34:12 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:34:12 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:34:12 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:34:12 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:34:12 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:34:12 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:34:12 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:34:12 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:34:19 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 14:34:19 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 14:34:24 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:34:28 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 14:34:28 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 14:34:28 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:34:28 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:34:28 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:34:28 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:34:35 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 14:34:35 WARN  com.app.Main  - Internal Server error, contact support
+[main] 2021-08-19 14:34:35 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:34:35 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:34:35 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:34:35 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:34:46 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 14:34:46 WARN  com.app.Main  - Internal Server error, contact support
+[main] 2021-08-19 14:34:46 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:34:46 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:34:46 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:34:46 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:35:46 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:35:46 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:35:46 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:35:46 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:35:46 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:35:46 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:35:46 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:35:46 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:35:54 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 14:35:54 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 14:35:58 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:36:03 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 14:36:03 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 14:36:03 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:36:03 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:36:03 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:36:03 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:36:05 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 14:36:05 WARN  com.app.Main  - Internal Server error, contact support
+[main] 2021-08-19 14:36:05 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:36:05 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:36:05 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:36:05 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:36:11 INFO  com.app.Main  - Logging you out...
+[main] 2021-08-19 14:36:11 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:36:11 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:36:11 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:36:11 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:36:11 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:36:11 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:36:12 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 14:37:15 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:37:15 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:37:15 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:37:15 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:37:15 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:37:15 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:37:15 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:37:15 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:37:20 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 14:37:20 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 14:37:24 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:37:26 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 14:37:26 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 14:37:26 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:37:26 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:37:26 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:37:26 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:37:28 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 14:37:28 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-19 14:37:28 INFO  com.app.Main  - Cart [orderid=4, tracker=In stock, customer=Customer [email=nsinha432@gmail.com, fname=nikhil, lname=sinha, password=null], product=Product Details: [ID=2, Name=Mobile, Price=12000]]
+[main] 2021-08-19 14:37:28 INFO  com.app.Main  - Cart [orderid=1, tracker=Delivery, customer=Customer [email=nsinha432@gmail.com, fname=nikhil, lname=sinha, password=null], product=Product Details: [ID=3, Name=Book, Price=500]]
+[main] 2021-08-19 14:37:28 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:37:28 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:37:28 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:37:28 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:45:09 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:45:09 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:45:09 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:45:09 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:45:09 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:45:09 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:45:09 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:45:09 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:45:12 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 14:45:12 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 14:45:17 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:45:20 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 14:45:20 INFO  com.app.Main  - Hello ravi kumar
+What would you like to do today?
+[main] 2021-08-19 14:45:20 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:45:20 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:45:20 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:45:20 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:45:24 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 14:45:24 INFO  com.app.Main  - You have :1 orders in your cart. Printing them: 
+[main] 2021-08-19 14:45:24 INFO  com.app.Main  - Cart [orderid=3, tracker=In stock, customer=Customer [email=nikhil@gmail.com, fname=ravi, lname=kumar, password=null], product=Product Details: [ID=2, Name=Mobile, Price=12000]]
+[main] 2021-08-19 14:45:24 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 14:45:38 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:45:38 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:45:38 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:45:38 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:45:40 INFO  com.app.Main  - Logging you out...
+[main] 2021-08-19 14:45:40 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:45:40 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:45:40 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:45:40 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:45:40 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:45:40 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:45:40 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 14:53:09 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:53:09 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:53:09 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:53:09 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:53:09 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:53:09 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:53:09 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:53:09 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:53:12 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 14:53:12 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 14:53:18 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:53:20 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 14:53:20 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 14:53:20 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:53:20 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:53:20 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:53:20 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:53:23 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 14:53:23 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-19 14:53:23 INFO  com.app.Main  - 
+ Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 14:53:23 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Delivery
+[main] 2021-08-19 14:53:23 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 14:56:25 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:56:25 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:56:25 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:56:25 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:56:25 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:56:25 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:56:25 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:56:25 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:56:27 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 14:56:27 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 14:56:31 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:56:34 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 14:56:34 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 14:56:34 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:56:34 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:56:34 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:56:34 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:56:34 WARN  com.app.Main  - Please enter a digit between 1 and 3 only
+[main] 2021-08-19 14:56:34 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:56:34 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:56:34 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:56:34 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:56:50 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 14:56:50 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-19 14:56:50 INFO  com.app.Main  - 
+ Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 14:56:50 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Delivery
+[main] 2021-08-19 14:56:50 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:57:19 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:57:20 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 14:57:20 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 14:57:24 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 14:57:27 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 14:57:27 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 14:57:27 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:57:27 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:57:27 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:57:27 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:57:34 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 14:57:34 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-19 14:57:34 INFO  com.app.Main  - 
+ Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 14:57:34 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Delivery
+[main] 2021-08-19 14:57:34 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 14:57:34 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 14:57:34 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 14:57:34 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 14:57:34 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 14:57:40 WARN  com.app.Main  - Please enter a digit between 1 and 4 only.
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 14:57:40 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 14:57:45 INFO  com.app.Main  - Taking you back to the previous menu...
+[main] 2021-08-19 14:57:45 WARN  com.app.Main  - Please enter a digit between 1 and 4 only.
+[main] 2021-08-19 14:57:45 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 14:57:45 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 14:57:45 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 14:57:45 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 14:57:48 INFO  com.app.Main  - Logging you out...
+[main] 2021-08-19 14:57:48 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 14:57:48 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 14:57:48 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 14:57:48 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 14:57:48 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 14:57:48 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 14:57:50 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-19 16:21:18 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 16:21:18 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 16:21:18 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 16:21:18 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 16:21:18 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 16:21:18 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 16:21:18 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 16:21:18 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 16:21:22 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 16:21:22 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 16:21:28 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 16:21:31 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 16:21:31 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 16:21:31 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 16:21:31 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 16:21:31 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 16:21:31 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 16:21:35 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 16:21:35 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-19 16:21:35 INFO  com.app.Main  - 
+ Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 16:21:35 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: In sotck
+[main] 2021-08-19 16:21:35 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:21:35 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:21:35 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:21:35 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:21:35 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:22:03 INFO  com.app.Main  - Enter the order ID for which you want to place the order: 
+[main] 2021-08-19 16:22:06 INFO  com.app.Main  - Updated the order status to: Delivered of Order ID: 1
+[main] 2021-08-19 16:22:06 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:22:06 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:22:06 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:22:06 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:22:06 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:22:11 INFO  com.app.Main  - Taking you back to the previous menu...
+[main] 2021-08-19 16:22:11 WARN  com.app.Main  - Please enter a digit between 1 and 4 only.
+[main] 2021-08-19 16:22:11 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 16:22:11 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 16:22:11 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 16:22:11 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 16:22:12 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 16:22:12 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-19 16:22:12 INFO  com.app.Main  - 
+ Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 16:22:12 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Ordered
+[main] 2021-08-19 16:22:12 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:22:12 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:22:12 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:22:12 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:22:12 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:23:58 INFO  com.app.Main  - Enter the order ID for which you want to update the order status: 
+[main] 2021-08-19 16:24:00 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:24:00 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:24:00 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:24:00 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:24:00 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:24:12 INFO  com.app.Main  - Enter the order ID for which you want to update the order status: 
+[main] 2021-08-19 16:24:16 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:24:16 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:24:16 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:24:16 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:24:16 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:25:16 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 16:25:16 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 16:25:16 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 16:25:16 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 16:25:16 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 16:25:16 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 16:25:16 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 16:25:16 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 16:25:23 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 16:25:23 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 16:25:28 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 16:25:30 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 16:25:30 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 16:25:30 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 16:25:30 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 16:25:30 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 16:25:30 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 16:25:38 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 16:25:38 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-19 16:25:38 INFO  com.app.Main  - 
+ Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 16:25:38 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Ordered
+[main] 2021-08-19 16:25:38 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:25:38 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:25:38 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:25:38 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:25:38 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:25:42 INFO  com.app.Main  - Enter the order ID for which you want to update the order status: 
+[main] 2021-08-19 16:25:44 WARN  com.app.Main  - Please enter a valid Product ID
+[main] 2021-08-19 16:25:44 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:25:44 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:25:44 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:25:44 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:25:44 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:25:46 INFO  com.app.Main  - Enter the order ID for which you want to update the order status: 
+[main] 2021-08-19 16:25:50 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:25:50 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:25:50 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:25:50 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:25:50 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:26:00 INFO  com.app.Main  - Enter the order ID for which you want to update the order status: 
+[main] 2021-08-19 16:26:03 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:26:03 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:26:03 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:26:03 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:26:03 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:28:11 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 16:28:11 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 16:28:11 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 16:28:11 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 16:28:11 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 16:28:11 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 16:28:11 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 16:28:11 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 16:28:14 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 16:28:14 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 16:28:18 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 16:28:20 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 16:28:20 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 16:28:20 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 16:28:20 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 16:28:20 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 16:28:20 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 16:28:27 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 16:28:27 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-19 16:28:27 INFO  com.app.Main  - 
+ Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 16:28:27 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Ordered
+[main] 2021-08-19 16:28:27 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:28:27 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:28:27 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:28:27 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:28:27 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:28:30 INFO  com.app.Main  - Enter the order ID for which you want to update the order status: 
+[main] 2021-08-19 16:28:32 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:28:32 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:28:32 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:28:32 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:28:32 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:28:49 INFO  com.app.Main  - Enter the order ID for which you want to update the order status: 
+[main] 2021-08-19 16:28:49 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:28:49 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:28:49 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:28:49 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:28:49 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:29:03 INFO  com.app.Main  - Taking you back to the previous menu...
+[main] 2021-08-19 16:29:03 WARN  com.app.Main  - Please enter a digit between 1 and 4 only.
+[main] 2021-08-19 16:29:03 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 16:29:03 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 16:29:03 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 16:29:03 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 16:29:07 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 16:29:08 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-19 16:29:08 INFO  com.app.Main  - 
+ Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 16:29:08 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Ordered
+[main] 2021-08-19 16:29:08 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:29:08 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:29:08 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:29:08 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:29:08 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:29:09 INFO  com.app.Main  - Enter the order ID for which you want to update the order status: 
+[main] 2021-08-19 16:29:11 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:29:11 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:29:11 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:29:11 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:29:11 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:29:46 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 16:29:46 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 16:29:46 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 16:29:46 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 16:29:46 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 16:29:46 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 16:29:46 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 16:29:46 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 16:29:50 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 16:29:50 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 16:29:54 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 16:29:57 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 16:29:57 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 16:29:57 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 16:29:57 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 16:29:57 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 16:29:57 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 16:30:00 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 16:30:00 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-19 16:30:00 INFO  com.app.Main  - 
+ Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 16:30:00 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Ordered
+[main] 2021-08-19 16:30:00 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:30:00 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:30:00 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:30:00 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:30:00 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:30:01 INFO  com.app.Main  - Enter the order ID for which you want to place the order: 
+[main] 2021-08-19 16:30:04 WARN  com.app.Main  - Invalid ID: 134141 entered
+[main] 2021-08-19 16:30:04 WARN  com.app.Main  - Order ID : 134141 not found in cart or the order might have already been placed.
+[main] 2021-08-19 16:30:04 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:30:04 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:30:04 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:30:04 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:30:04 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:32:31 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-19 16:32:31 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-19 16:32:31 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 16:32:31 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 16:32:31 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 16:32:31 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 16:32:31 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 16:32:31 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 16:32:37 INFO  com.app.Main  - Enter customer login details: 
+[main] 2021-08-19 16:32:37 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-19 16:32:42 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-19 16:32:45 INFO  com.app.Main  - Customer logged in successfully
+[main] 2021-08-19 16:32:45 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-19 16:32:45 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 16:32:45 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 16:32:45 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 16:32:45 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 16:32:47 INFO  com.app.Main  - Showing your orders: 
+[main] 2021-08-19 16:32:47 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-19 16:32:47 INFO  com.app.Main  - 
+ Order ID : 4, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-19 16:32:47 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Ordered
+[main] 2021-08-19 16:32:47 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:32:47 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:32:47 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:32:47 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:32:47 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:32:48 INFO  com.app.Main  - Enter the order ID for which you want to place the order: 
+[main] 2021-08-19 16:32:50 WARN  com.app.Main  - Invalid ID: 112312 entered
+[main] 2021-08-19 16:32:50 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:32:50 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:32:50 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:32:50 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:32:50 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:32:53 INFO  com.app.Main  - Enter the order ID for which you want to place the order: 
+[main] 2021-08-19 16:32:55 WARN  com.app.Main  - Order ID : 12 not found in cart or the order might have already been placed.
+[main] 2021-08-19 16:32:55 INFO  com.app.Main  - What do you want to do in your cart?
+[main] 2021-08-19 16:32:55 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-19 16:32:55 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-19 16:32:55 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-19 16:32:55 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-19 16:33:07 INFO  com.app.Main  - Taking you back to the previous menu...
+[main] 2021-08-19 16:33:07 WARN  com.app.Main  - Please enter a digit between 1 and 4 only.
+[main] 2021-08-19 16:33:07 INFO  com.app.Main  - 1.) Search products
+[main] 2021-08-19 16:33:07 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-19 16:33:07 INFO  com.app.Main  - 3.) Logout
+[main] 2021-08-19 16:33:07 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-19 16:33:08 INFO  com.app.Main  - Logging you out...
+[main] 2021-08-19 16:33:08 INFO  com.app.Main  - Please login: 
+[main] 2021-08-19 16:33:08 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-19 16:33:08 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-19 16:33:08 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-19 16:33:08 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-19 16:33:08 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-19 16:33:08 INFO  com.app.Main  - Thanks for shopping with us! Hope to see you soon :)

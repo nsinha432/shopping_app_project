@@ -1,0 +1,5 @@
+package com.associate.login.service;
+
+public interface AssociateLoginService {
+
+}
