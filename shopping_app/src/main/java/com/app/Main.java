@@ -7,10 +7,12 @@ import org.apache.log4j.Logger;
 
 import com.app.dao.CustomerCreateDAO;
 import com.app.dao.CustomerLoginDAO;
+import com.app.dao.CustomerSearchDAO;
 import com.app.dao.ProductCreateDAO;
 import com.app.dao.ProductSearchDAO;
 import com.app.dao.impl.CustomerCreateDAOImpl;
 import com.app.dao.impl.CustomerLoginDAOImpl;
+import com.app.dao.impl.CustomerSearchDAOImpl;
 import com.app.dao.impl.ProductCreateDAOImpl;
 import com.app.dao.impl.ProductSearchDAOImpl;
 import com.app.exception.BusinessException;
@@ -29,6 +31,8 @@ import com.customer.create.service.CustomerCreateService;
 import com.customer.create.service.impl.CustomerCreateServiceImpl;
 import com.customer.login.service.CustomerLoginService;
 import com.customer.login.service.impl.CustomerLoginServiceImpl;
+import com.customer.search.service.CustomerSearchService;
+import com.customer.search.service.impl.CustomerSearchServiceImpl;
 import com.product.create.service.ProductCreateService;
 import com.product.create.service.impl.ProductCreateServiceImpl;
 import com.product.search.service.ProductSearchService;
@@ -105,7 +109,7 @@ public class Main {
 					log.info("1.) Search Products");
 					log.info("2.) Add new Product");
 					log.info("3.) Search Customers");
-					log.info("4.) View all orders");
+					log.info("4.) View all orders in the app");
 					log.info("5.) Logout");
 
 					try {
@@ -117,7 +121,124 @@ public class Main {
 
 					switch (choiceass) {
 					case 1:
-						log.info("Under Construction");
+
+						int choiceass1 = 0;
+
+						log.info("Welcome to Product Search");
+
+						do {
+
+							log.info("How would you want to search the products?");
+
+							log.info("1.) By name");
+							log.info("2.) By Id");
+							log.info("3.) Show all products");
+							log.info("4.) Return back to previous menu");
+
+							log.info("Please enter your choice");
+
+							try {
+								choiceass1 = Integer.parseInt(scanner.nextLine());
+							} catch (NumberFormatException e) {
+								log.warn("Please enter digits between 1 and 4 only");
+								continue;
+							}
+
+							ProductSearchService productSearchService = new ProductSearchServiceImpl();
+							ProductSearchDAO productSearchDAO = new ProductSearchDAOImpl();
+
+							switch (choiceass1) {
+
+							case 1:
+
+								log.info("Enter Product Name");
+								String productName = "";
+								productName = scanner.nextLine();
+
+								try {
+									if (productSearchService.checkName(productName)) {
+									}
+								} catch (BusinessException e1) {
+									log.warn(e1.getMessage());
+									continue;
+								}
+
+								try {
+									List<Product> productList = productSearchDAO.getProductsByName(productName);
+
+									log.info("There are " + productList.size() + " products with the name: "
+											+ productName);
+									log.info("Printing product details");
+
+									for (Product product : productList) {
+										log.info(product);
+									}
+
+								} catch (BusinessException e2) {
+									log.warn(e2.getMessage());
+								}
+
+								break;
+
+							case 2:
+								log.info("Enter product id");
+								int id = 0;
+
+								try {
+									id = Integer.parseInt(scanner.nextLine());
+								} catch (NumberFormatException e) {
+									log.warn("Please enter digits only");
+									continue;
+								}
+
+								try {
+									if (productSearchService.checkId(id)) {
+									}
+								} catch (BusinessException e1) {
+									log.warn(e1.getMessage());
+									continue;
+								}
+
+								try {
+
+									Product product = productSearchDAO.getProductById(id);
+
+									log.info("Printing product details with ID : " + id);
+									log.info(product);
+
+								} catch (BusinessException e1) {
+									log.warn(e1.getMessage());
+									continue;
+								}
+
+								break;
+
+							case 3:
+								log.info("All the available products are listed below");
+
+								try {
+									List<Product> productList = productSearchDAO.getAllProducts();
+									for (Product product : productList) {
+										log.info(product);
+									}
+
+								} catch (BusinessException e) {
+									log.warn(e.getMessage());
+									continue;
+								}
+
+								break;
+
+							case 4:
+								log.info("Returning back to the previous menu...");
+								break;
+
+							default:
+								log.info("Please enter digits between 1 and 4 only");
+								break;
+							}
+
+						} while (choiceass1 != 4);
 
 						break;
 
@@ -200,7 +321,162 @@ public class Main {
 						break;
 
 					case 3:
-						log.info("Under Construction");
+						log.info("Welcome to Customer Search");
+
+						int cust = 0;
+
+						do {
+							CustomerSearchService customerSearchService = new CustomerSearchServiceImpl();
+							CustomerSearchDAO customerSearchDAO = new CustomerSearchDAOImpl();
+
+							log.info("1.) Search Customer by email");
+							log.info("2.) Search Customer(s) by First Name");
+							log.info("3.) Search Customer(s) by Last Name");
+							log.info("4.) Show All Customers");
+							log.info("5.) Return back to the Previous Menu");
+
+							log.info("Please Enter your choice: ");
+
+							try {
+								cust = Integer.parseInt(scanner.nextLine());
+							} catch (NumberFormatException e) {
+								log.warn("Please enter a valid number only");
+							}
+
+							switch (cust) {
+
+							case 1:
+								log.info("1.) Enter Customer's email: ");
+
+								String email = scanner.nextLine();
+
+								try {
+									if (customerSearchService.checkEmail(email)) {
+
+									}
+								} catch (BusinessException e) {
+									log.warn(e.getMessage());
+									continue;
+								}
+
+								try {
+									Customer customer1 = customerSearchDAO.getCustomerByEmail(email);
+
+									if (customer1 != null) {
+										log.info("Printing Customer details: ");
+										log.info("\nCustomer's email :" + customer1.getEmail()
+												+ ", Customer's First Name: " + customer1.getFname()
+												+ ", Customer's Last Name: " + customer1.getLname());
+									}
+
+								} catch (BusinessException e1) {
+									log.warn(e1.getMessage());
+								}
+
+								break;
+
+							case 2:
+								log.info("2.) Enter Customer's First Name");
+
+								String fname = scanner.nextLine();
+
+								try {
+									if (customerSearchService.checkFname(fname)) {
+
+									}
+								} catch (BusinessException e) {
+									log.warn(e.getMessage());
+									continue;
+								}
+
+								try {
+									List<Customer> customerListf = customerSearchDAO.getCustomersByFname(fname);
+									if (customerListf.size() > 0) {
+										log.info("There are : " + customerListf.size() + " customers with the First Name: "
+												+ fname);
+										log.info("Printing their details:");
+										
+										for(Customer customer:customerListf) {
+											log.info("\nCustomer's email :" + customer.getEmail()
+											+ ", Customer's First Name: " + customer.getFname()
+											+ ", Customer's Last Name: " + customer.getLname());
+										}
+									}
+
+								} catch (BusinessException e1) {
+									log.warn(e1.getMessage());
+								}
+
+								break;
+
+							case 3:
+								log.info("3.) Enter Customer's Last Name");
+
+								String lname = scanner.nextLine();
+
+								try {
+									if (customerSearchService.checkLname(lname)) {
+
+									}
+								} catch (BusinessException e) {
+									log.warn(e.getMessage());
+									continue;
+								}
+								
+								try {
+									List<Customer> customerListl = customerSearchDAO.getCustomersByLname(lname);
+									if (customerListl.size() > 0) {
+										log.info("There are : " + customerListl.size() + " customers with the Last Name: "
+												+ lname);
+										log.info("Printing their details:");
+										
+										for(Customer customer:customerListl) {
+											log.info("\nCustomer's email :" + customer.getEmail()
+											+ ", Customer's First Name: " + customer.getFname()
+											+ ", Customer's Last Name: " + customer.getLname());
+										}
+									}
+
+								} catch (BusinessException e1) {
+									log.warn(e1.getMessage());
+								}
+								
+								break;
+
+							case 4:
+								log.info("4.) Showing All Customers: ");
+
+								try {
+									List<Customer> customerList = customerSearchDAO.getAllCustomers();
+
+									if (customerList.size() > 0) {
+										log.info("There are : " + customerList.size() + " customers in the database");
+										log.info("Printing all the Customers:");
+										for (Customer customer : customerList) {
+											log.info("\nCustomer's email :" + customer.getEmail()
+													+ ", Customer's First Name: " + customer.getFname()
+													+ ", Customer's Last Name: " + customer.getLname());
+										}
+									}
+
+								} catch (BusinessException e) {
+									log.warn(e.getMessage());
+								}
+
+								break;
+
+							case 5:
+								log.info("Returning back to the Previous Menu...");
+
+								break;
+
+							default:
+								log.info("Please enter a digit between 1 and 5 only.");
+								continue;
+							// break;
+							}
+
+						} while (cust != 5);
 
 						break;
 
@@ -231,6 +507,61 @@ public class Main {
 						} catch (BusinessException e) {
 							log.warn(e.getMessage());
 						}
+
+						int adchoice = 0;
+
+						do {
+
+							log.info("1.) Update order as Dispatched");
+							log.info("2.) Return to previous menu");
+
+							adchoice = Integer.parseInt(scanner.nextLine());
+
+							switch (adchoice) {
+							case 1:
+
+								int orderId = 0;
+
+								CartDAOService cartDAOService = new CartDAOServiceImpl();
+
+								log.info("Enter Order ID to update status");
+
+								try {
+									orderId = Integer.parseInt(scanner.nextLine());
+								} catch (NumberFormatException e) {
+									log.warn("Please enter a valid number");
+									continue;
+								}
+
+								try {
+									cartDAOService.checkProductID(orderId);
+								} catch (BusinessException e) {
+									log.warn(e.getMessage());
+									continue;
+								}
+
+								try {
+									if (cartDAO.updateOrderAssociate(orderId) == 1) {
+										log.info("Order status updated successfully");
+									}
+								} catch (BusinessException e) {
+									log.warn(e.getMessage());
+									continue;
+								}
+
+								break;
+
+							case 2:
+								log.info("Returning to previous menu...");
+								break;
+
+							default:
+								log.info("Please choose 1 or 2 only.");
+								continue;
+							// break;
+							}
+
+						} while (adchoice != 2);
 
 						break;
 
@@ -504,6 +835,16 @@ public class Main {
 									productId = Integer.parseInt(scanner.nextLine());
 								} catch (NumberFormatException e) {
 									log.warn("Please enter a valid ID");
+									continue;
+								}
+
+								CartDAOService cartDAOService = new CartDAOServiceImpl();
+
+								try {
+									cartDAOService.checkProductID(productId);
+								} catch (BusinessException e1) {
+									log.warn(e1.getMessage());
+									continue;
 								}
 
 								try {
@@ -515,6 +856,7 @@ public class Main {
 
 								} catch (BusinessException e) {
 									log.warn(e.getMessage());
+									continue;
 								}
 
 								break;
@@ -557,7 +899,6 @@ public class Main {
 
 						} catch (BusinessException e) {
 							log.warn(e.getMessage());
-							continue;
 						}
 
 						int ch = 0;
@@ -574,11 +915,9 @@ public class Main {
 
 							int orderId = 0;
 							CartDAOService cartDAOService = new CartDAOServiceImpl();
-							
+
 							switch (ch) {
 							case 1:
-
-								
 
 								log.info("Enter the order ID for which you want to place the order: ");
 
@@ -587,7 +926,7 @@ public class Main {
 								} catch (NumberFormatException e) {
 									log.warn("Please enter a valid Order ID");
 								}
-								
+
 								try {
 									cartDAOService.checkProductID(orderId);
 								} catch (BusinessException e) {
@@ -600,7 +939,7 @@ public class Main {
 									if (c == 1) {
 										log.info("Updated the order status to: Delivered of Order ID: " + orderId);
 									}
-									
+
 								} catch (BusinessException e) {
 									log.warn(e.getMessage());
 								}
@@ -616,15 +955,21 @@ public class Main {
 									log.warn("Please enter a valid Order ID");
 									continue;
 								}
-								
+
 								try {
 									cartDAOService.checkProductID(orderId);
 								} catch (BusinessException e) {
 									log.warn(e.getMessage());
 									continue;
 								}
-								
-								
+
+								try {
+									if (cartDAO.updateOrderCustomer(orderId) == 1) {
+										log.info("Order status updated successfully for the order ID: " + orderId);
+									}
+								} catch (BusinessException e1) {
+									log.warn(e1.getMessage());
+								}
 
 								break;
 
@@ -637,25 +982,24 @@ public class Main {
 									log.warn("Please enter a valid Order ID");
 									continue;
 								}
-								
+
 								try {
 									cartDAOService.checkProductID(orderId);
 								} catch (BusinessException e) {
 									log.warn(e.getMessage());
 									continue;
 								}
-								
+
 								try {
 									int c = cartDAO.deleteOrder(orderId);
-									if(c==1) {
-										log.info("Order deleted from your cart of Order ID: "+orderId);
+									if (c == 1) {
+										log.info("Order deleted from your cart of Order ID: " + orderId);
 									}
-									
+
 								} catch (BusinessException e) {
 									log.warn(e.getMessage());
 								}
-								
-								
+
 								break;
 
 							case 4:

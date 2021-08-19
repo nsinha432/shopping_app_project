@@ -1,0 +1,48 @@
+package com.app.dao.impl;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.app.dao.CustomerSearchDAO;
+import com.app.exception.BusinessException;
+import com.app.model.Customer;
+
+public class CustomerSearchDAOImpl implements CustomerSearchDAO{
+
+	@Override
+	public List<Customer> getAllCustomers() throws BusinessException {
+		List<Customer> customerList = new ArrayList<>();
+		
+		
+		
+		return customerList;
+	}
+
+	@Override
+	public List<Customer> getCustomersByFname(String fname) throws BusinessException {
+		List<Customer> customerList = new ArrayList<>();
+		
+		
+		
+		return customerList;
+	}
+
+	@Override
+	public List<Customer> getCustomersByLname(String lname) throws BusinessException {
+		List<Customer> customerList = new ArrayList<>();
+		
+		
+		
+		return customerList;
+	}
+
+	@Override
+	public Customer getCustomerByEmail(String email) throws BusinessException {
+		Customer customer = null;
+		
+		
+		
+		return customer;
+	}
+
+}

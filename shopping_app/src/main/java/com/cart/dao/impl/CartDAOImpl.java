@@ -105,8 +105,8 @@ public class CartDAOImpl implements CartDAO {
 		} catch (ClassNotFoundException | SQLException e) {
 			throw new BusinessException("Internal Server error, contact support");
 		}
-		
-		if(orderList.size() == 0) {
+
+		if (orderList.size() == 0) {
 			throw new BusinessException("Your cart is empty. Start shopping!");
 		}
 
@@ -119,20 +119,20 @@ public class CartDAOImpl implements CartDAO {
 		int c = 0;
 
 		try (Connection connection = MysqlDbConnection.getConnection()) {
-			
+
 			String sql = "UPDATE cart SET tracker = 'Ordered' WHERE customerEmail =? and orderid =? and tracker = In stock";
-			
+
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-			
+
 			preparedStatement.setString(1, email);
 			preparedStatement.setInt(2, orderId);
-			
-			c = preparedStatement.executeUpdate();
-			
-			if(c==0) {
-				throw new BusinessException("Order ID : "+orderId+" not found in cart or the order might have already been placed." );
-			}
 
+			c = preparedStatement.executeUpdate();
+
+			if (c == 0) {
+				throw new BusinessException(
+						"Order ID : " + orderId + " not found in cart or the order might have already been placed.");
+			}
 
 		} catch (ClassNotFoundException | SQLException e) {
 			throw new BusinessException("Internal Server error, contact support");
@@ -143,26 +143,78 @@ public class CartDAOImpl implements CartDAO {
 	@Override
 	public int deleteOrder(int orderId) throws BusinessException {
 		int c = 0;
-		
+
 		try (Connection connection = MysqlDbConnection.getConnection()) {
-			
+
 			String sql = "DELETE FROM cart WHERE orderid =? and tracker = 'In stock'";
-			
+
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-			
+
 			preparedStatement.setInt(1, orderId);
-			
-			c= preparedStatement.executeUpdate();
-			
-			if(c==0) {
-				throw new BusinessException("Order ID : "+orderId+" not found in cart or might have already been dispatched.");
+
+			c = preparedStatement.executeUpdate();
+
+			if (c == 0) {
+				throw new BusinessException(
+						"Order ID : " + orderId + " not found in cart or might have already been dispatched.");
 			}
-			
-			
-		}
-		catch (ClassNotFoundException | SQLException e) {
+
+		} catch (ClassNotFoundException | SQLException e) {
 			throw new BusinessException("Internal Server error, contact support");
 		}
+
+		return c;
+	}
+
+	@Override
+	public int updateOrderAssociate(int orderId) throws BusinessException {
+		int c = 0;
+
+		try (Connection connection = MysqlDbConnection.getConnection()) {
+
+			String sql = "UPDATE cart SET tracker = 'Dispatched' WHERE orderid =? and tracker = 'Ordered'";
+			
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+
+			preparedStatement.setInt(1, orderId);
+			
+			c = preparedStatement.executeUpdate();
+			
+			if (c == 0) {
+				throw new BusinessException(
+						"Order ID : " + orderId + " not found in cart or might have already been dispatched.");
+			}
+			
+		} catch (ClassNotFoundException | SQLException e) {
+			throw new BusinessException("Internal Server error, contact support");
+		}
+
+		return c;
+	}
+
+	@Override
+	public int updateOrderCustomer(int orderId) throws BusinessException {
+		int c = 0;
+		
+		try (Connection connection = MysqlDbConnection.getConnection()) {
+
+			String sql = "UPDATE cart SET tracker = 'Received' WHERE orderid =? and tracker = 'Dispatched'";
+			
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+
+			preparedStatement.setInt(1, orderId);
+			
+			c = preparedStatement.executeUpdate();
+			
+			if (c == 0) {
+				throw new BusinessException(
+						"Order ID : " + orderId + " not found in cart or might have already been delivered.");
+			}
+			
+		} catch (ClassNotFoundException | SQLException e) {
+			throw new BusinessException("Internal Server error, contact support");
+		}
+		
 		
 		return c;
 	}

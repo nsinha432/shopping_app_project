@@ -15,4 +15,8 @@ public interface CartDAO {
 	
 	public int deleteOrder(int orderId) throws BusinessException;
 	
+	public  int updateOrderAssociate(int orderId) throws BusinessException;
+	
+	public int updateOrderCustomer(int orderId) throws BusinessException;
+	
 }

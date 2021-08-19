@@ -43,7 +43,7 @@ public class CartAddDAOImpl implements CartAddDAO {
 			
 
 		} catch (ClassNotFoundException | SQLException e) {
-			throw new BusinessException("Internal error, contact your system administrator");
+			throw new BusinessException("Product ID "+productID+" doesn't exist");
 		}
 		return orderId;
 	}
