@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="testProductSearchServiceImpl" project="shopping_app" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.product.search.service.impl.testProductSearchServiceImpl" time="0.011" displayname="testProductSearchServiceImpl" uniqueid="[engine:junit-jupiter]/[class:com.product.search.service.impl.testProductSearchServiceImpl]">
+    <testcase name="testCheckName_ifCorrect" classname="com.product.search.service.impl.testProductSearchServiceImpl" time="0.011" displayname="testCheckName_ifCorrect()" uniqueid="[engine:junit-jupiter]/[class:com.product.search.service.impl.testProductSearchServiceImpl]/[method:testCheckName_ifCorrect()]"/>
+  </testsuite>
+</testrun>
