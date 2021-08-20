@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="testCustomerSearchDAOImpl" project="shopping_app" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.app.dao.impl.testCustomerSearchDAOImpl" time="0.786" displayname="testCustomerSearchDAOImpl" uniqueid="[engine:junit-jupiter]/[class:com.app.dao.impl.testCustomerSearchDAOImpl]">
+    <testcase name="testGetCustomerByEmail_differentEmail" classname="com.app.dao.impl.testCustomerSearchDAOImpl" time="0.758" displayname="testGetCustomerByEmail_differentEmail()" uniqueid="[engine:junit-jupiter]/[class:com.app.dao.impl.testCustomerSearchDAOImpl]/[method:testGetCustomerByEmail_differentEmail()]"/>
+    <testcase name="testGetCustomerByEmail_sameEmail" classname="com.app.dao.impl.testCustomerSearchDAOImpl" time="0.028" displayname="testGetCustomerByEmail_sameEmail()" uniqueid="[engine:junit-jupiter]/[class:com.app.dao.impl.testCustomerSearchDAOImpl]/[method:testGetCustomerByEmail_sameEmail()]"/>
+  </testsuite>
+</testrun>

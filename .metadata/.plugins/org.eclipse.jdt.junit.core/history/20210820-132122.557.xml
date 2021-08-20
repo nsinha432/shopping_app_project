@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="testCheckProductId" project="shopping_app" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.cart.dao.service.impl.testCheckProductId" time="0.012" displayname="testCheckProductId" uniqueid="[engine:junit-jupiter]/[class:com.cart.dao.service.impl.testCheckProductId]">
+    <testcase name="testCheckProductID" classname="com.cart.dao.service.impl.testCheckProductId" time="0.012" displayname="testCheckProductID()" uniqueid="[engine:junit-jupiter]/[class:com.cart.dao.service.impl.testCheckProductId]/[method:testCheckProductID()]"/>
+  </testsuite>
+</testrun>
