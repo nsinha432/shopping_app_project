@@ -11,7 +11,7 @@ public interface CartDAO {
 	
 	public List<Cart> getCustomerOrders(String email) throws BusinessException;
 	
-	public int placeOrder(int orderId, String email) throws BusinessException;
+	public int placeOrder(int orderId) throws BusinessException;
 	
 	public int deleteOrder(int orderId) throws BusinessException;
 	

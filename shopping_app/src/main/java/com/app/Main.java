@@ -92,7 +92,7 @@ public class Main {
 
 				try {
 					if (associateLoginService.checkPassword(password2)) {
-						log.info("Associate login successful!");
+						log.info("\nAssociate login successful!");
 						log.info("Welcome");
 					}
 				} catch (BusinessException e3) {
@@ -115,7 +115,7 @@ public class Main {
 					try {
 						choiceass = Integer.parseInt(scanner.nextLine());
 					} catch (NumberFormatException e) {
-						log.warn("Please enter a digit between 1 and 5 only");
+						log.warn("\nPlease enter a digit between 1 and 5 only");
 						continue;
 					}
 
@@ -124,7 +124,7 @@ public class Main {
 
 						int choiceass1 = 0;
 
-						log.info("Welcome to Product Search");
+						log.info("\nWelcome to Product Search");
 
 						do {
 
@@ -140,7 +140,7 @@ public class Main {
 							try {
 								choiceass1 = Integer.parseInt(scanner.nextLine());
 							} catch (NumberFormatException e) {
-								log.warn("Please enter digits between 1 and 4 only");
+								log.warn("\nPlease enter digits between 1 and 4 only");
 								continue;
 							}
 
@@ -151,7 +151,7 @@ public class Main {
 
 							case 1:
 
-								log.info("Enter Product Name");
+								log.info("\nEnter Product Name");
 								String productName = "";
 								productName = scanner.nextLine();
 
@@ -166,7 +166,7 @@ public class Main {
 								try {
 									List<Product> productList = productSearchDAO.getProductsByName(productName);
 
-									log.info("There are " + productList.size() + " products with the name: "
+									log.info("\nThere are " + productList.size() + " products with the name: "
 											+ productName);
 									log.info("Printing product details");
 
@@ -181,7 +181,7 @@ public class Main {
 								break;
 
 							case 2:
-								log.info("Enter product id");
+								log.info("\nEnter product id");
 								int id = 0;
 
 								try {
@@ -203,7 +203,7 @@ public class Main {
 
 									Product product = productSearchDAO.getProductById(id);
 
-									log.info("Printing product details with ID : " + id);
+									log.info("\nPrinting product details with ID : " + id);
 									log.info(product);
 
 								} catch (BusinessException e1) {
@@ -214,7 +214,7 @@ public class Main {
 								break;
 
 							case 3:
-								log.info("All the available products are listed below");
+								log.info("\nAll the available products are listed below");
 
 								try {
 									List<Product> productList = productSearchDAO.getAllProducts();
@@ -230,11 +230,11 @@ public class Main {
 								break;
 
 							case 4:
-								log.info("Returning back to the previous menu...");
+								log.info("\nReturning back to the previous menu...");
 								break;
 
 							default:
-								log.info("Please enter digits between 1 and 4 only");
+								log.info("\nPlease enter digits between 1 and 4 only");
 								break;
 							}
 
@@ -247,7 +247,7 @@ public class Main {
 						ProductCreateService productCreateService = new ProductCreateServiceImpl();
 						ProductCreateDAO productCreateDAO = new ProductCreateDAOImpl();
 
-						log.info("Enter the Product details to be added to the app: ");
+						log.info("\nEnter the Product details to be added to the app: ");
 						log.info("1.) Enter Product ID:");
 
 						int id = 0;
@@ -307,11 +307,11 @@ public class Main {
 							int c = productCreateDAO.createProduct(product);
 
 							if (c == 1) {
-								log.info("Product Created Successfully with the details: ");
+								log.info("\nProduct Created Successfully with the details: ");
 								log.info(product);
 
 							} else {
-								log.info("Could not create product");
+								log.info("\nCould not create product");
 							}
 
 						} catch (BusinessException e3) {
@@ -321,7 +321,7 @@ public class Main {
 						break;
 
 					case 3:
-						log.info("Welcome to Customer Search");
+						log.info("\nWelcome to Customer Search");
 
 						int cust = 0;
 
@@ -329,7 +329,7 @@ public class Main {
 							CustomerSearchService customerSearchService = new CustomerSearchServiceImpl();
 							CustomerSearchDAO customerSearchDAO = new CustomerSearchDAOImpl();
 
-							log.info("1.) Search Customer by email");
+							log.info("\n1.) Search Customer by email");
 							log.info("2.) Search Customer(s) by First Name");
 							log.info("3.) Search Customer(s) by Last Name");
 							log.info("4.) Show All Customers");
@@ -346,7 +346,7 @@ public class Main {
 							switch (cust) {
 
 							case 1:
-								log.info("1.) Enter Customer's email: ");
+								log.info("\n1.) Enter Customer's email: ");
 
 								String email = scanner.nextLine();
 
@@ -363,7 +363,7 @@ public class Main {
 									Customer customer1 = customerSearchDAO.getCustomerByEmail(email);
 
 									if (customer1 != null) {
-										log.info("Printing Customer details: ");
+										log.info("\nPrinting Customer details: ");
 										log.info("\nCustomer's email :" + customer1.getEmail()
 												+ ", Customer's First Name: " + customer1.getFname()
 												+ ", Customer's Last Name: " + customer1.getLname());
@@ -376,7 +376,7 @@ public class Main {
 								break;
 
 							case 2:
-								log.info("2.) Enter Customer's First Name");
+								log.info("\n2.) Enter Customer's First Name");
 
 								String fname = scanner.nextLine();
 
@@ -392,7 +392,7 @@ public class Main {
 								try {
 									List<Customer> customerListf = customerSearchDAO.getCustomersByFname(fname);
 									if (customerListf.size() > 0) {
-										log.info("There are : " + customerListf.size()
+										log.info("\nThere are : " + customerListf.size()
 												+ " customers with the First Name: " + fname);
 										log.info("Printing their details:");
 
@@ -410,7 +410,7 @@ public class Main {
 								break;
 
 							case 3:
-								log.info("3.) Enter Customer's Last Name");
+								log.info("\n3.) Enter Customer's Last Name");
 
 								String lname = scanner.nextLine();
 
@@ -426,7 +426,7 @@ public class Main {
 								try {
 									List<Customer> customerListl = customerSearchDAO.getCustomersByLname(lname);
 									if (customerListl.size() > 0) {
-										log.info("There are : " + customerListl.size()
+										log.info("\nThere are : " + customerListl.size()
 												+ " customers with the Last Name: " + lname);
 										log.info("Printing their details:");
 
@@ -444,13 +444,13 @@ public class Main {
 								break;
 
 							case 4:
-								log.info("4.) Showing All Customers: ");
+								log.info("\n4.) Showing All Customers: ");
 
 								try {
 									List<Customer> customerList = customerSearchDAO.getAllCustomers();
 
 									if (customerList.size() > 0) {
-										log.info("There are : " + customerList.size() + " customers in the database");
+										log.info("\nThere are : " + customerList.size() + " customers in the database");
 										log.info("Printing all the Customers:");
 										for (Customer customer : customerList) {
 											log.info("\nCustomer's email :" + customer.getEmail()
@@ -466,12 +466,12 @@ public class Main {
 								break;
 
 							case 5:
-								log.info("Returning back to the Previous Menu...");
+								log.info("\nReturning back to the Previous Menu...");
 
 								break;
 
 							default:
-								log.info("Please enter a digit between 1 and 5 only.");
+								log.info("\nPlease enter a digit between 1 and 5 only.");
 								continue;
 							// break;
 							}
@@ -481,7 +481,7 @@ public class Main {
 						break;
 
 					case 4:
-						log.info("Showing all orders");
+						log.info("\nShowing all orders");
 
 						CartDAO cartDAO = new CartDAOImpl();
 
@@ -512,7 +512,7 @@ public class Main {
 
 						do {
 
-							log.info("1.) Update order as Dispatched");
+							log.info("\n1.) Update order as Dispatched");
 							log.info("2.) Return to previous menu");
 
 							adchoice = Integer.parseInt(scanner.nextLine());
@@ -542,7 +542,7 @@ public class Main {
 
 								try {
 									if (cartDAO.updateOrderAssociate(orderId) == 1) {
-										log.info("Order status updated successfully");
+										log.info("\nOrder status updated successfully");
 									}
 								} catch (BusinessException e) {
 									log.warn(e.getMessage());
@@ -552,11 +552,11 @@ public class Main {
 								break;
 
 							case 2:
-								log.info("Returning to previous menu...");
+								log.info("\nReturning to previous menu...");
 								break;
 
 							default:
-								log.info("Please choose 1 or 2 only.");
+								log.info("\nPlease choose 1 or 2 only.");
 								continue;
 							// break;
 							}
@@ -566,12 +566,12 @@ public class Main {
 						break;
 
 					case 5:
-						log.info("Okay admin, Logging you out...");
+						log.info("\nOkay admin, Logging you out...");
 
 						break;
 
 					default:
-						log.warn("Please enter a number between 1 and 5 only.");
+						log.warn("\nPlease enter a number between 1 and 5 only.");
 						continue;
 					// break;
 					}
@@ -644,7 +644,7 @@ public class Main {
 					int c = customerCreateDAO.createCustomer(customer);
 
 					if (c == 1) {
-						log.info("Customer created Successfully");
+						log.info("\nCustomer created Successfully");
 					}
 
 				} catch (BusinessException e) {
@@ -654,7 +654,7 @@ public class Main {
 				break;
 
 			case 3:
-				log.info("Enter customer login details: ");
+				log.info("\nEnter customer login details: ");
 
 				log.info("1.) Enter email");
 
@@ -693,7 +693,7 @@ public class Main {
 					customerlogin = customerLoginDAO.loginCustomer(email1, password1);
 
 					if (customerlogin != null) {
-						log.info("Customer logged in successfully");
+						log.info("\nCustomer logged in successfully");
 						log.info("Hello " + customerlogin.getFname() + " " + customerlogin.getLname()
 								+ "\nWhat would you like to do today?");
 					}
@@ -707,7 +707,7 @@ public class Main {
 
 				do {
 
-					log.info("1.) Search products");
+					log.info("\n1.) Search products");
 					log.info("2.) View your orders");
 					log.info("3.) View Cart total");
 					log.info("4.) Logout");
@@ -726,7 +726,7 @@ public class Main {
 						int choice2 = 0;
 						do {
 
-							log.info("Welcome to Product Search");
+							log.info("\nWelcome to Product Search");
 							log.info("How would you want to search the products?");
 
 							log.info("1.) By name");
@@ -750,7 +750,7 @@ public class Main {
 
 							switch (choice2) {
 							case 1:
-								log.info("Enter product name: ");
+								log.info("\nEnter product name: ");
 
 								String name = scanner.nextLine();
 
@@ -765,7 +765,7 @@ public class Main {
 								try {
 									List<Product> productList = productSearchDAO.getProductsByName(name);
 
-									log.info("There are " + productList.size() + " products with the name: " + name);
+									log.info("\nThere are " + productList.size() + " products with the name: " + name);
 									log.info("Printing product details");
 
 									for (Product product : productList) {
@@ -779,7 +779,7 @@ public class Main {
 								break;
 
 							case 2:
-								log.info("Enter product id");
+								log.info("\nEnter product id");
 								int id = 0;
 
 								try {
@@ -801,7 +801,7 @@ public class Main {
 
 									Product product = productSearchDAO.getProductById(id);
 
-									log.info("Printing product details with ID : " + id);
+									log.info("\nPrinting product details with ID : " + id);
 									log.info(product);
 
 								} catch (BusinessException e1) {
@@ -811,12 +811,12 @@ public class Main {
 								break;
 
 							case 3:
-								log.info("All the available products are listed below");
+								log.info("\nAll the available products are listed below");
 
 								try {
 									List<Product> productList = productSearchDAO.getAllProducts();
 									for (Product product : productList) {
-										log.info(product);
+										log.info("\n"+product);
 									}
 
 								} catch (BusinessException e) {
@@ -827,7 +827,7 @@ public class Main {
 								break;
 
 							case 4:
-								log.info("Enter product ID to add to cart:");
+								log.info("\nEnter product ID to add to cart:");
 								int productId = 0;
 
 								CartAddDAO cartAddDAO = new CartAddDAOImpl();
@@ -863,11 +863,11 @@ public class Main {
 								break;
 
 							case 5:
-								log.info("Taking you to the previous menu...");
+								log.info("\nTaking you to the previous menu...");
 								break;
 
 							default:
-								log.warn("Please enter a number between 1 and 4 only");
+								log.warn("\nPlease enter a number between 1 and 4 only");
 								continue;
 							// break;
 							}
@@ -877,7 +877,7 @@ public class Main {
 						break;
 
 					case 2:
-						log.info("Showing your orders: ");
+						log.info("\nShowing your orders: ");
 
 						CartDAO cartDAO = new CartDAOImpl();
 
@@ -905,7 +905,7 @@ public class Main {
 						int ch = 0;
 						do {
 
-							log.info("What do you want to do in your cart?");
+							log.info("\nWhat do you want to do in your cart?");
 
 							log.info("1.) Place order");
 							log.info("2.) Update order as recieved");
@@ -920,12 +920,12 @@ public class Main {
 							switch (ch) {
 							case 1:
 
-								log.info("Enter the order ID for which you want to place the order: ");
+								log.info("\nEnter the order ID for which you want to place the order: ");
 
 								try {
 									orderId = Integer.parseInt(scanner.nextLine());
 								} catch (NumberFormatException e) {
-									log.warn("Please enter a valid Order ID");
+									log.warn("\nPlease enter a valid Order ID");
 								}
 
 								try {
@@ -936,9 +936,10 @@ public class Main {
 								}
 
 								try {
-									int c = cartDAO.placeOrder(orderId, customerlogin.getEmail());
+									log.info(customerlogin);
+									int c = cartDAO.placeOrder(orderId);
 									if (c == 1) {
-										log.info("Updated the order status to: Delivered of Order ID: " + orderId);
+										log.info("\nUpdated the order status to: Ordered of Order ID: " + orderId);
 									}
 
 								} catch (BusinessException e) {
@@ -948,12 +949,12 @@ public class Main {
 								break;
 
 							case 2:
-								log.info("Enter the order ID for which you want to update the order status: ");
+								log.info("\nEnter the order ID for which you want to update the order status: ");
 
 								try {
 									orderId = Integer.parseInt(scanner.nextLine());
 								} catch (NumberFormatException e) {
-									log.warn("Please enter a valid Order ID");
+									log.warn("\nPlease enter a valid Order ID");
 									continue;
 								}
 
@@ -966,7 +967,7 @@ public class Main {
 
 								try {
 									if (cartDAO.updateOrderCustomer(orderId) == 1) {
-										log.info("Order status updated successfully for the order ID: " + orderId);
+										log.info("\nOrder status updated successfully for the order ID: " + orderId);
 									}
 								} catch (BusinessException e1) {
 									log.warn(e1.getMessage());
@@ -975,12 +976,12 @@ public class Main {
 								break;
 
 							case 3:
-								log.info("Enter the order ID which you want to delete from your cart");
+								log.info("\nEnter the order ID which you want to delete from your cart");
 
 								try {
 									orderId = Integer.parseInt(scanner.nextLine());
 								} catch (NumberFormatException e) {
-									log.warn("Please enter a valid Order ID");
+									log.warn("\nPlease enter a valid Order ID");
 									continue;
 								}
 
@@ -994,7 +995,7 @@ public class Main {
 								try {
 									int c = cartDAO.deleteOrder(orderId);
 									if (c == 1) {
-										log.info("Order deleted from your cart of Order ID: " + orderId);
+										log.info("\nOrder deleted from your cart of Order ID: " + orderId);
 									}
 
 								} catch (BusinessException e) {
@@ -1004,10 +1005,10 @@ public class Main {
 								break;
 
 							case 4:
-								log.info("Taking you back to the previous menu...");
+								log.info("\nTaking you back to the previous menu...");
 
 							default:
-								log.warn("Please enter a digit between 1 and 4 only.");
+								log.warn("\nPlease enter a digit between 1 and 4 only.");
 								continue;
 							// break;
 							}
@@ -1017,7 +1018,7 @@ public class Main {
 						break;
 
 					case 3:
-						log.info("Printing Cart total:");
+						log.info("\nPrinting Cart total:");
 						CartDAO cartDAO2 = new CartDAOImpl();
 						int cost = 0;
 						
@@ -1025,7 +1026,7 @@ public class Main {
 							cost = cartDAO2.cartTotal(customerlogin.getEmail());
 							
 							if(cost>0) {
-								log.info("The total bill of your cart is: "+cost);
+								log.info("\nThe total bill of your cart is: "+cost);
 							}
 							
 						} catch (BusinessException e) {
@@ -1035,11 +1036,11 @@ public class Main {
 						break;
 
 					case 4:
-						log.info("Logging you out...");
+						log.info("\nLogging you out...");
 
 						break;
 					default:
-						log.warn("Please enter a number between 1 and 3 only.");
+						log.warn("\nPlease enter a number between 1 and 3 only.");
 						continue;
 					// break;
 					}
@@ -1049,12 +1050,12 @@ public class Main {
 				break;
 
 			case 4:
-				log.info("Thanks for shopping with us! Hope to see you soon :)");
+				log.info("\nThanks for shopping with us! Hope to see you soon :)");
 
 				break;
 
 			default:
-				log.warn("Invalid choice! The choice should only be a number between 1-4. Please try again.");
+				log.warn("\nInvalid choice! The choice should only be a number between 1-4. Please try again.");
 				continue;
 			// break;
 

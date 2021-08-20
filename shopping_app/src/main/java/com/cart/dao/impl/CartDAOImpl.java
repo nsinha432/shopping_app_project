@@ -114,18 +114,17 @@ public class CartDAOImpl implements CartDAO {
 	}
 
 	@Override
-	public int placeOrder(int orderId, String email) throws BusinessException {
+	public int placeOrder(int orderId) throws BusinessException {
 
 		int c = 0;
 
 		try (Connection connection = MysqlDbConnection.getConnection()) {
 
-			String sql = "UPDATE cart SET tracker = 'Ordered' WHERE customerEmail =? and orderid =? and tracker = In stock";
+			String sql = "UPDATE cart SET tracker = 'Ordered' WHERE orderid =? and tracker = 'In stock'";
 
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
 
-			preparedStatement.setString(1, email);
-			preparedStatement.setInt(2, orderId);
+			preparedStatement.setInt(1, orderId);
 
 			c = preparedStatement.executeUpdate();
 
@@ -135,6 +134,7 @@ public class CartDAOImpl implements CartDAO {
 			}
 
 		} catch (ClassNotFoundException | SQLException e) {
+			e.printStackTrace();
 			throw new BusinessException("Internal Server error, contact support");
 		}
 		return c;
@@ -160,6 +160,7 @@ public class CartDAOImpl implements CartDAO {
 			}
 
 		} catch (ClassNotFoundException | SQLException e) {
+			
 			throw new BusinessException("Internal Server error, contact support");
 		}
 
@@ -208,7 +209,7 @@ public class CartDAOImpl implements CartDAO {
 
 			if (c == 0) {
 				throw new BusinessException(
-						"Order ID : " + orderId + " not found in cart or might have already been delivered.");
+						"Order ID : " + orderId + " not found in cart or order might not have been dispatched yet or might have already been delivered.");
 			}
 
 		} catch (ClassNotFoundException | SQLException e) {
