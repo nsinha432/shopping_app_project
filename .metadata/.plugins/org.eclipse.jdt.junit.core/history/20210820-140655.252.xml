@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="testProductSearchServiceImpl" project="shopping_app" tests="4" started="4" failures="0" errors="0" ignored="0">
-  <testsuite name="com.product.search.service.impl.testProductSearchServiceImpl" time="0.014" displayname="testProductSearchServiceImpl" uniqueid="[engine:junit-jupiter]/[class:com.product.search.service.impl.testProductSearchServiceImpl]">
-    <testcase name="testCheckId_CorrectID" classname="com.product.search.service.impl.testProductSearchServiceImpl" time="0.007" displayname="testCheckId_CorrectID()" uniqueid="[engine:junit-jupiter]/[class:com.product.search.service.impl.testProductSearchServiceImpl]/[method:testCheckId_CorrectID()]"/>
-    <testcase name="testCheckId_IncorrectID" classname="com.product.search.service.impl.testProductSearchServiceImpl" time="0.001" displayname="testCheckId_IncorrectID()" uniqueid="[engine:junit-jupiter]/[class:com.product.search.service.impl.testProductSearchServiceImpl]/[method:testCheckId_IncorrectID()]"/>
-    <testcase name="testCheckName_ifCorrect" classname="com.product.search.service.impl.testProductSearchServiceImpl" time="0.002" displayname="testCheckName_ifCorrect()" uniqueid="[engine:junit-jupiter]/[class:com.product.search.service.impl.testProductSearchServiceImpl]/[method:testCheckName_ifCorrect()]"/>
-    <testcase name="testCheckName_ifIncorrect" classname="com.product.search.service.impl.testProductSearchServiceImpl" time="0.004" displayname="testCheckName_ifIncorrect()" uniqueid="[engine:junit-jupiter]/[class:com.product.search.service.impl.testProductSearchServiceImpl]/[method:testCheckName_ifIncorrect()]"/>
-  </testsuite>
-</testrun>

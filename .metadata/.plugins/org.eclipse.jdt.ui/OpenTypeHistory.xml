@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
+<typeInfo handle="=shopping_app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.cart.dao.service.impl{CartDAOServiceImpl.java[CartDAOServiceImpl" modifiers="1" timestamp="1629369766436"/>
+<typeInfo handle="=shopping_app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.customer.search.service.impl{CustomerSearchServiceImpl.java[CustomerSearchServiceImpl" modifiers="1" timestamp="1629382986021"/>
 <typeInfo handle="=shopping_app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.dao.impl{CustomerSearchDAOImpl.java[CustomerSearchDAOImpl" modifiers="1" timestamp="1629387743020"/>
+<typeInfo handle="=shopping_app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.product.search.service.impl{ProductSearchServiceImpl.java[ProductSearchServiceImpl" modifiers="1" timestamp="1629298285317"/>
+<typeInfo handle="=shopping_app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.product.create.service.impl{ProductCreateServiceImpl.java[ProductCreateServiceImpl" modifiers="1" timestamp="1629346573189"/>
+<typeInfo handle="=shopping_app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.app.dao.impl{ProductSearchDAOImpl.java[ProductSearchDAOImpl" modifiers="1" timestamp="1629299552254"/>
 </typeInfoHistroy>

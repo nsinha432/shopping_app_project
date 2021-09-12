@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="testProductCreateService" project="shopping_app" tests="5" started="5" failures="0" errors="0" ignored="0">
-  <testsuite name="com.product.create.service.impl.testProductCreateService" time="0.015" displayname="testProductCreateService" uniqueid="[engine:junit-jupiter]/[class:com.product.create.service.impl.testProductCreateService]">
-    <testcase name="testCheckName_CorrectName" classname="com.product.create.service.impl.testProductCreateService" time="0.006" displayname="testCheckName_CorrectName()" uniqueid="[engine:junit-jupiter]/[class:com.product.create.service.impl.testProductCreateService]/[method:testCheckName_CorrectName()]"/>
-    <testcase name="testCheckPrice_CorrectPrice" classname="com.product.create.service.impl.testProductCreateService" time="0.001" displayname="testCheckPrice_CorrectPrice()" uniqueid="[engine:junit-jupiter]/[class:com.product.create.service.impl.testProductCreateService]/[method:testCheckPrice_CorrectPrice()]"/>
-    <testcase name="testCheckId_CorrectID" classname="com.product.create.service.impl.testProductCreateService" time="0.001" displayname="testCheckId_CorrectID()" uniqueid="[engine:junit-jupiter]/[class:com.product.create.service.impl.testProductCreateService]/[method:testCheckId_CorrectID()]"/>
-    <testcase name="testCheckId_IncorrectID" classname="com.product.create.service.impl.testProductCreateService" time="0.002" displayname="testCheckId_IncorrectID()" uniqueid="[engine:junit-jupiter]/[class:com.product.create.service.impl.testProductCreateService]/[method:testCheckId_IncorrectID()]"/>
-    <testcase name="testCheckName_IncorrectName" classname="com.product.create.service.impl.testProductCreateService" time="0.005" displayname="testCheckName_IncorrectName()" uniqueid="[engine:junit-jupiter]/[class:com.product.create.service.impl.testProductCreateService]/[method:testCheckName_IncorrectName()]"/>
-  </testsuite>
-</testrun>

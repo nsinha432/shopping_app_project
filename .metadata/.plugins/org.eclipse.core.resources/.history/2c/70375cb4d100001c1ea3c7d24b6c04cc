@@ -1,5 +1,0 @@
-package com.cart.dao.service;
-
-public interface CartDAOService {
-
-}

@@ -1,5 +1,0 @@
-package com.product.search.service;
-
-public interface ProductSearchService {
-
-}

@@ -1,5 +1,0 @@
-package com.cart.add.dao;
-
-public interface CartAddDAO {
-
-}

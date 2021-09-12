@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="testCheckProductId" project="shopping_app" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="com.cart.dao.service.impl.testCheckProductId" time="0.011" displayname="testCheckProductId" uniqueid="[engine:junit-jupiter]/[class:com.cart.dao.service.impl.testCheckProductId]">
-    <testcase name="testCheckProductID_WhenIncorrectIDEntered" classname="com.cart.dao.service.impl.testCheckProductId" time="0.007" displayname="testCheckProductID_WhenIncorrectIDEntered()" uniqueid="[engine:junit-jupiter]/[class:com.cart.dao.service.impl.testCheckProductId]/[method:testCheckProductID_WhenIncorrectIDEntered()]"/>
-    <testcase name="testCheckProductID_WhenCorrectIDEntered" classname="com.cart.dao.service.impl.testCheckProductId" time="0.004" displayname="testCheckProductID_WhenCorrectIDEntered()" uniqueid="[engine:junit-jupiter]/[class:com.cart.dao.service.impl.testCheckProductId]/[method:testCheckProductID_WhenCorrectIDEntered()]"/>
-  </testsuite>
-</testrun>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="testCustomerSearchService" project="shopping_app" tests="4" started="4" failures="0" errors="0" ignored="0">
-  <testsuite name="com.customer.search.service.imp.testCustomerSearchService" time="0.015" displayname="testCustomerSearchService" uniqueid="[engine:junit-jupiter]/[class:com.customer.search.service.imp.testCustomerSearchService]">
-    <testcase name="testCheckLname_IncorrectLname" classname="com.customer.search.service.imp.testCustomerSearchService" time="0.007" displayname="testCheckLname_IncorrectLname()" uniqueid="[engine:junit-jupiter]/[class:com.customer.search.service.imp.testCustomerSearchService]/[method:testCheckLname_IncorrectLname()]"/>
-    <testcase name="testCheckLname_CorrectLname" classname="com.customer.search.service.imp.testCustomerSearchService" time="0.001" displayname="testCheckLname_CorrectLname()" uniqueid="[engine:junit-jupiter]/[class:com.customer.search.service.imp.testCustomerSearchService]/[method:testCheckLname_CorrectLname()]"/>
-    <testcase name="testCheckFname_IncorrectFname" classname="com.customer.search.service.imp.testCustomerSearchService" time="0.001" displayname="testCheckFname_IncorrectFname()" uniqueid="[engine:junit-jupiter]/[class:com.customer.search.service.imp.testCustomerSearchService]/[method:testCheckFname_IncorrectFname()]"/>
-    <testcase name="testCheckFname_CorrectFname" classname="com.customer.search.service.imp.testCustomerSearchService" time="0.005" displayname="testCheckFname_CorrectFname()" uniqueid="[engine:junit-jupiter]/[class:com.customer.search.service.imp.testCustomerSearchService]/[method:testCheckFname_CorrectFname()]"/>
-  </testsuite>
-</testrun>

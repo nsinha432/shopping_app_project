@@ -82,3 +82,881 @@ Returning back to the Previous Menu...
  Please enter your choice: 
 [main] 2021-08-20 13:53:57 INFO  com.app.Main  - 
 Thanks for shopping with us! Hope to see you soon :)
+[main] 2021-08-20 14:27:29 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-20 14:27:29 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-20 14:27:29 INFO  com.app.Main  - Please login: 
+[main] 2021-08-20 14:27:29 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-20 14:27:29 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-20 14:27:29 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-20 14:27:29 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-20 14:27:29 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-20 14:27:32 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-20 14:27:32 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-20 14:27:34 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-20 14:27:36 INFO  com.app.Main  - 
+Associate login successful!
+[main] 2021-08-20 14:27:36 INFO  com.app.Main  - Welcome
+[main] 2021-08-20 14:27:36 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-20 14:27:36 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-20 14:27:36 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-20 14:27:36 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-20 14:27:36 INFO  com.app.Main  - 4.) View all orders in the app
+[main] 2021-08-20 14:27:36 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-20 14:27:46 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:27:46 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:27:46 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:27:46 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:27:46 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:27:46 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-20 14:27:46 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:27:47 INFO  com.app.Main  - 
+Enter product id
+[main] 2021-08-20 14:27:50 INFO  com.app.Main  - 
+Printing product details with ID : 2
+[main] 2021-08-20 14:27:50 INFO  com.app.Main  - Product Details: [ID=2, Name=Mobile, Price=12000]
+[main] 2021-08-20 14:27:50 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:27:50 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:27:50 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:27:50 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:27:50 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-20 14:27:50 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:34:39 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-20 14:34:39 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-20 14:34:39 INFO  com.app.Main  - Please login: 
+[main] 2021-08-20 14:34:39 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-20 14:34:39 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-20 14:34:39 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-20 14:34:39 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-20 14:34:39 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-20 14:34:58 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-20 14:34:58 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-20 14:35:08 INFO  com.app.Main  - 2.) Enter first name
+[main] 2021-08-20 14:35:14 INFO  com.app.Main  - 3.) Enter last name
+[main] 2021-08-20 14:35:17 INFO  com.app.Main  - 4.) Enter password
+[main] 2021-08-20 14:35:24 INFO  com.app.Main  - 
+Customer created Successfully
+[main] 2021-08-20 14:35:24 INFO  com.app.Main  - Please login: 
+[main] 2021-08-20 14:35:24 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-20 14:35:24 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-20 14:35:24 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-20 14:35:24 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-20 14:35:24 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-20 14:35:33 INFO  com.app.Main  - 
+Enter customer login details: 
+[main] 2021-08-20 14:35:33 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-20 14:35:38 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-20 14:35:41 INFO  com.app.Main  - 
+Customer logged in successfully
+[main] 2021-08-20 14:35:41 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-20 14:35:41 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:35:41 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:35:41 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:35:41 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:35:41 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:35:51 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:35:51 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:35:51 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:35:51 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:35:51 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:35:51 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-20 14:35:51 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-20 14:35:51 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - 
+All the available products are listed below
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - 
+Product Details: [ID=1, Name=TV, Price=20000]
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - 
+Product Details: [ID=2, Name=Mobile, Price=12000]
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - 
+Product Details: [ID=3, Name=Book, Price=500]
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - 
+Product Details: [ID=4, Name=Laptop, Price=30000]
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-20 14:35:58 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:36:16 INFO  com.app.Main  - 
+Enter product ID to add to cart:
+[main] 2021-08-20 14:36:24 INFO  com.app.Main  - Product added to cart successfully with Order ID : 17
+[main] 2021-08-20 14:36:24 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:36:24 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:36:24 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:36:24 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:36:24 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:36:41 INFO  com.app.Main  - 
+Showing your orders: 
+[main] 2021-08-20 14:36:41 INFO  com.app.Main  - You have :1 orders in your cart. Printing them: 
+[main] 2021-08-20 14:36:41 INFO  com.app.Main  - 
+ Order ID : 17, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: In stock
+[main] 2021-08-20 14:36:41 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-20 14:36:41 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-20 14:36:41 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-20 14:36:41 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-20 14:36:41 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-20 14:37:15 INFO  com.app.Main  - 
+Taking you back to the previous menu...
+[main] 2021-08-20 14:37:15 WARN  com.app.Main  - 
+Please enter a digit between 1 and 4 only.
+[main] 2021-08-20 14:37:15 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:37:15 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:37:15 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:37:15 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:37:15 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:37:20 INFO  com.app.Main  - 
+Printing Cart total:
+[main] 2021-08-20 14:37:20 INFO  com.app.Main  - 
+The total bill of your cart is: 500
+[main] 2021-08-20 14:37:20 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:37:20 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:37:20 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:37:20 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:37:20 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:37:32 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:37:32 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:37:32 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:37:32 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:37:32 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:37:32 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-20 14:37:32 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-20 14:37:32 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:37:36 INFO  com.app.Main  - 
+Enter product id
+[main] 2021-08-20 14:37:38 INFO  com.app.Main  - 
+Printing product details with ID : 1
+[main] 2021-08-20 14:37:38 INFO  com.app.Main  - Product Details: [ID=1, Name=TV, Price=20000]
+[main] 2021-08-20 14:37:38 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:37:38 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:37:38 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:37:38 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:37:38 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:37:38 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-20 14:37:38 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-20 14:37:38 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:37:51 INFO  com.app.Main  - 
+Taking you to the previous menu...
+[main] 2021-08-20 14:37:51 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:37:51 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:37:51 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:37:51 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:37:51 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:37:51 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-20 14:37:51 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-20 14:37:51 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:37:56 INFO  com.app.Main  - 
+Taking you to the previous menu...
+[main] 2021-08-20 14:37:56 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:37:56 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:37:56 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:37:56 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:37:56 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:37:56 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-20 14:37:56 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-20 14:37:56 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:38:08 INFO  com.app.Main  - 
+Taking you to the previous menu...
+[main] 2021-08-20 14:38:08 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:38:08 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:38:08 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:38:08 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:38:08 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:38:08 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-20 14:38:08 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-20 14:38:08 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:38:58 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-20 14:38:58 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-20 14:38:58 INFO  com.app.Main  - Please login: 
+[main] 2021-08-20 14:38:58 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-20 14:38:58 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-20 14:38:58 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-20 14:38:58 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-20 14:38:58 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-20 14:39:00 INFO  com.app.Main  - 
+Enter customer login details: 
+[main] 2021-08-20 14:39:00 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-20 14:39:10 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-20 14:39:14 INFO  com.app.Main  - 
+Customer logged in successfully
+[main] 2021-08-20 14:39:14 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-20 14:39:14 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:39:14 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:39:14 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:39:14 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:39:14 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:39:17 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:39:17 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:39:17 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:39:17 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:39:17 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:39:17 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-20 14:39:17 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-20 14:39:17 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:39:22 INFO  com.app.Main  - 
+Taking you to the previous menu...
+[main] 2021-08-20 14:39:22 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:39:22 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:39:22 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:39:22 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:39:22 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:39:31 INFO  com.app.Main  - 
+Showing your orders: 
+[main] 2021-08-20 14:39:31 INFO  com.app.Main  - You have :1 orders in your cart. Printing them: 
+[main] 2021-08-20 14:39:31 INFO  com.app.Main  - 
+ Order ID : 17, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: In stock
+[main] 2021-08-20 14:39:31 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-20 14:39:31 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-20 14:39:31 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-20 14:39:31 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-20 14:39:31 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-20 14:39:42 INFO  com.app.Main  - 
+Taking you back to the previous menu...
+[main] 2021-08-20 14:39:42 WARN  com.app.Main  - 
+Please enter a digit between 1 and 4 only.
+[main] 2021-08-20 14:39:42 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:39:42 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:39:42 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:39:42 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:39:42 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:39:46 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:39:46 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:39:46 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:39:46 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:39:46 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:39:46 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-20 14:39:46 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-20 14:39:46 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:39:47 INFO  com.app.Main  - 
+Enter product id
+[main] 2021-08-20 14:39:49 INFO  com.app.Main  - 
+Printing product details with ID : 1
+[main] 2021-08-20 14:39:49 INFO  com.app.Main  - Product Details: [ID=1, Name=TV, Price=20000]
+[main] 2021-08-20 14:39:49 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:39:49 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:39:49 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:39:49 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:39:49 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:39:49 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-20 14:39:49 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-20 14:39:49 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:39:58 INFO  com.app.Main  - 
+Enter product ID to add to cart:
+[main] 2021-08-20 14:40:05 INFO  com.app.Main  - Product added to cart successfully with Order ID : 18
+[main] 2021-08-20 14:40:05 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-20 14:40:05 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-20 14:40:05 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-20 14:40:05 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-20 14:40:05 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-20 14:40:05 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-20 14:40:05 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-20 14:40:05 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-20 14:40:13 INFO  com.app.Main  - 
+Taking you to the previous menu...
+[main] 2021-08-20 14:40:13 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:40:13 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:40:13 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:40:13 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:40:13 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:40:15 INFO  com.app.Main  - 
+Showing your orders: 
+[main] 2021-08-20 14:40:15 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-20 14:40:15 INFO  com.app.Main  - 
+ Order ID : 18, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 1, Product Name: TV, Product Price : 20000, Order Status: In stock
+[main] 2021-08-20 14:40:15 INFO  com.app.Main  - 
+ Order ID : 17, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: In stock
+[main] 2021-08-20 14:40:15 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-20 14:40:15 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-20 14:40:15 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-20 14:40:15 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-20 14:40:15 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-20 14:40:26 INFO  com.app.Main  - 
+Taking you back to the previous menu...
+[main] 2021-08-20 14:40:26 WARN  com.app.Main  - 
+Please enter a digit between 1 and 4 only.
+[main] 2021-08-20 14:40:26 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:40:26 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:40:26 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:40:26 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:40:26 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:40:33 INFO  com.app.Main  - 
+Printing Cart total:
+[main] 2021-08-20 14:40:33 INFO  com.app.Main  - 
+The total bill of your cart is: 20500
+[main] 2021-08-20 14:40:33 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:40:33 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:40:33 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:40:33 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:40:33 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:40:41 INFO  com.app.Main  - 
+Showing your orders: 
+[main] 2021-08-20 14:40:41 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-20 14:40:41 INFO  com.app.Main  - 
+ Order ID : 17, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: In stock
+[main] 2021-08-20 14:40:41 INFO  com.app.Main  - 
+ Order ID : 18, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 1, Product Name: TV, Product Price : 20000, Order Status: In stock
+[main] 2021-08-20 14:40:41 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-20 14:40:41 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-20 14:40:41 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-20 14:40:41 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-20 14:40:41 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-20 14:40:50 INFO  com.app.Main  - 
+Enter the order ID for which you want to place the order: 
+[main] 2021-08-20 14:40:55 INFO  com.app.Main  - Customer [email=nikhil@yahoo.com, fname=nikhil, lname=sinha, password=nikhilsi]
+[main] 2021-08-20 14:40:55 WARN  com.app.Main  - Order ID : 1 not found in cart or the order might have already been placed.
+[main] 2021-08-20 14:40:55 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-20 14:40:55 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-20 14:40:55 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-20 14:40:55 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-20 14:40:55 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-20 14:40:59 INFO  com.app.Main  - 
+Enter the order ID for which you want to place the order: 
+[main] 2021-08-20 14:41:02 INFO  com.app.Main  - Customer [email=nikhil@yahoo.com, fname=nikhil, lname=sinha, password=nikhilsi]
+[main] 2021-08-20 14:41:02 INFO  com.app.Main  - 
+Updated the order status to: Ordered of Order ID: 17
+[main] 2021-08-20 14:41:02 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-20 14:41:02 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-20 14:41:02 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-20 14:41:02 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-20 14:41:02 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-20 14:41:12 INFO  com.app.Main  - 
+Taking you back to the previous menu...
+[main] 2021-08-20 14:41:12 WARN  com.app.Main  - 
+Please enter a digit between 1 and 4 only.
+[main] 2021-08-20 14:41:12 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:41:12 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:41:12 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:41:12 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:41:12 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:41:14 INFO  com.app.Main  - 
+Showing your orders: 
+[main] 2021-08-20 14:41:14 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-20 14:41:14 INFO  com.app.Main  - 
+ Order ID : 17, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Ordered
+[main] 2021-08-20 14:41:14 INFO  com.app.Main  - 
+ Order ID : 18, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 1, Product Name: TV, Product Price : 20000, Order Status: In stock
+[main] 2021-08-20 14:41:14 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-20 14:41:14 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-20 14:41:14 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-20 14:41:14 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-20 14:41:14 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-20 14:41:34 INFO  com.app.Main  - 
+Taking you back to the previous menu...
+[main] 2021-08-20 14:41:34 WARN  com.app.Main  - 
+Please enter a digit between 1 and 4 only.
+[main] 2021-08-20 14:41:34 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:41:34 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:41:34 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:41:34 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:41:34 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:41:36 INFO  com.app.Main  - 
+Printing Cart total:
+[main] 2021-08-20 14:41:36 INFO  com.app.Main  - 
+The total bill of your cart is: 20000
+[main] 2021-08-20 14:41:36 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:41:36 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:41:36 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:41:36 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:41:36 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:41:52 INFO  com.app.Main  - 
+Logging you out...
+[main] 2021-08-20 14:41:52 INFO  com.app.Main  - Please login: 
+[main] 2021-08-20 14:41:52 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-20 14:41:52 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-20 14:41:52 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-20 14:41:52 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-20 14:41:52 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-20 14:41:54 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-20 14:41:54 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-20 14:41:56 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-20 14:41:59 INFO  com.app.Main  - 
+Associate login successful!
+[main] 2021-08-20 14:41:59 INFO  com.app.Main  - Welcome
+[main] 2021-08-20 14:41:59 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-20 14:41:59 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-20 14:41:59 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-20 14:41:59 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-20 14:41:59 INFO  com.app.Main  - 4.) View all orders in the app
+[main] 2021-08-20 14:41:59 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - 
+Showing all orders
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - There are: 8 orders :
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - 
+ Order ID : 12, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 1, Product Name: TV, Product Price : 20000, Order Status: In stock
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - 
+ Order ID : 18, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 1, Product Name: TV, Product Price : 20000, Order Status: In stock
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - 
+ Order ID : 13, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - 
+ Order ID : 14, Customer email: nikhilsinha432@gmail.com, Customer's First Name: nik, Customer's Last Name: sin, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: Received
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Received
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - 
+ Order ID : 16, Customer email: nikhil@gmail.com, Customer's First Name: ravi, Customer's Last Name: kumar, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: In stock
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - 
+ Order ID : 17, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Ordered
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - 
+ Order ID : 15, Customer email: nikhil@gmail.com, Customer's First Name: ravi, Customer's Last Name: kumar, Product ID: 4, Product Name: Laptop, Product Price : 30000, Order Status: In stock
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - 
+1.) Update order as Dispatched
+[main] 2021-08-20 14:42:04 INFO  com.app.Main  - 2.) Return to previous menu
+[main] 2021-08-20 14:42:30 INFO  com.app.Main  - Enter Order ID to update status
+[main] 2021-08-20 14:42:35 INFO  com.app.Main  - 
+Order status updated successfully
+[main] 2021-08-20 14:42:35 INFO  com.app.Main  - 
+1.) Update order as Dispatched
+[main] 2021-08-20 14:42:35 INFO  com.app.Main  - 2.) Return to previous menu
+[main] 2021-08-20 14:42:39 INFO  com.app.Main  - 
+Returning to previous menu...
+[main] 2021-08-20 14:42:39 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-20 14:42:39 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-20 14:42:39 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-20 14:42:39 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-20 14:42:39 INFO  com.app.Main  - 4.) View all orders in the app
+[main] 2021-08-20 14:42:39 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - 
+Showing all orders
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - There are: 8 orders :
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - 
+ Order ID : 12, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 1, Product Name: TV, Product Price : 20000, Order Status: In stock
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - 
+ Order ID : 18, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 1, Product Name: TV, Product Price : 20000, Order Status: In stock
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - 
+ Order ID : 13, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - 
+ Order ID : 14, Customer email: nikhilsinha432@gmail.com, Customer's First Name: nik, Customer's Last Name: sin, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: Received
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Received
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - 
+ Order ID : 16, Customer email: nikhil@gmail.com, Customer's First Name: ravi, Customer's Last Name: kumar, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: In stock
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - 
+ Order ID : 17, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Dispatched
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - 
+ Order ID : 15, Customer email: nikhil@gmail.com, Customer's First Name: ravi, Customer's Last Name: kumar, Product ID: 4, Product Name: Laptop, Product Price : 30000, Order Status: In stock
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - 
+1.) Update order as Dispatched
+[main] 2021-08-20 14:42:42 INFO  com.app.Main  - 2.) Return to previous menu
+[main] 2021-08-20 14:42:48 INFO  com.app.Main  - 
+Returning to previous menu...
+[main] 2021-08-20 14:42:48 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-20 14:42:48 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-20 14:42:48 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-20 14:42:48 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-20 14:42:48 INFO  com.app.Main  - 4.) View all orders in the app
+[main] 2021-08-20 14:42:48 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-20 14:42:51 INFO  com.app.Main  - 
+Okay admin, Logging you out...
+[main] 2021-08-20 14:42:51 INFO  com.app.Main  - Please login: 
+[main] 2021-08-20 14:42:51 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-20 14:42:51 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-20 14:42:51 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-20 14:42:51 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-20 14:42:51 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-20 14:42:53 INFO  com.app.Main  - 
+Enter customer login details: 
+[main] 2021-08-20 14:42:53 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-20 14:42:57 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-20 14:43:00 INFO  com.app.Main  - 
+Customer logged in successfully
+[main] 2021-08-20 14:43:00 INFO  com.app.Main  - Hello nikhil sinha
+What would you like to do today?
+[main] 2021-08-20 14:43:00 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:43:00 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:43:00 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:43:00 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:43:00 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:43:03 INFO  com.app.Main  - 
+Showing your orders: 
+[main] 2021-08-20 14:43:03 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-20 14:43:03 INFO  com.app.Main  - 
+ Order ID : 17, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Dispatched
+[main] 2021-08-20 14:43:03 INFO  com.app.Main  - 
+ Order ID : 18, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 1, Product Name: TV, Product Price : 20000, Order Status: In stock
+[main] 2021-08-20 14:43:03 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-20 14:43:03 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-20 14:43:03 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-20 14:43:03 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-20 14:43:03 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-20 14:43:15 INFO  com.app.Main  - 
+Enter the order ID for which you want to update the order status: 
+[main] 2021-08-20 14:43:25 INFO  com.app.Main  - 
+Order status updated successfully for the order ID: 17
+[main] 2021-08-20 14:43:25 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-20 14:43:25 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-20 14:43:25 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-20 14:43:25 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-20 14:43:25 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-20 14:43:31 INFO  com.app.Main  - 
+Taking you back to the previous menu...
+[main] 2021-08-20 14:43:31 WARN  com.app.Main  - 
+Please enter a digit between 1 and 4 only.
+[main] 2021-08-20 14:43:31 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-20 14:43:31 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-20 14:43:31 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-20 14:43:31 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-20 14:43:31 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-20 14:43:35 INFO  com.app.Main  - 
+Showing your orders: 
+[main] 2021-08-20 14:43:35 INFO  com.app.Main  - You have :2 orders in your cart. Printing them: 
+[main] 2021-08-20 14:43:35 INFO  com.app.Main  - 
+ Order ID : 18, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 1, Product Name: TV, Product Price : 20000, Order Status: In stock
+[main] 2021-08-20 14:43:35 INFO  com.app.Main  - 
+ Order ID : 17, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Received
+[main] 2021-08-20 14:43:35 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-20 14:43:35 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-20 14:43:35 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-20 14:43:35 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-20 14:43:35 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-26 20:51:44 INFO  com.app.Main  - Welcome to shopping app
+[main] 2021-08-26 20:51:44 INFO  com.app.Main  - -------------------------------
+[main] 2021-08-26 20:51:44 INFO  com.app.Main  - Please login: 
+[main] 2021-08-26 20:51:44 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-26 20:51:44 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-26 20:51:44 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-26 20:51:44 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-26 20:51:44 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-26 20:52:25 INFO  com.app.Main  - Enter customer details for creation :
+
+[main] 2021-08-26 20:52:25 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-26 20:52:32 INFO  com.app.Main  - 2.) Enter first name
+[main] 2021-08-26 20:52:35 INFO  com.app.Main  - 3.) Enter last name
+[main] 2021-08-26 20:52:40 INFO  com.app.Main  - 4.) Enter password
+[main] 2021-08-26 20:52:45 INFO  com.app.Main  - 
+Customer created Successfully
+[main] 2021-08-26 20:52:45 INFO  com.app.Main  - Please login: 
+[main] 2021-08-26 20:52:45 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-26 20:52:45 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-26 20:52:45 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-26 20:52:45 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-26 20:52:45 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-26 20:52:49 INFO  com.app.Main  - 
+Enter customer login details: 
+[main] 2021-08-26 20:52:49 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-26 20:52:59 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-26 20:53:02 INFO  com.app.Main  - 
+Customer logged in successfully
+[main] 2021-08-26 20:53:02 INFO  com.app.Main  - Hello kaalu kaaliya
+What would you like to do today?
+[main] 2021-08-26 20:53:02 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-26 20:53:02 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-26 20:53:02 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-26 20:53:02 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-26 20:53:02 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-26 20:53:18 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-26 20:53:18 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-26 20:53:18 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-26 20:53:18 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-26 20:53:18 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-26 20:53:18 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-26 20:53:18 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-26 20:53:18 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - 
+All the available products are listed below
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - 
+Product Details: [ID=1, Name=TV, Price=20000]
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - 
+Product Details: [ID=2, Name=Mobile, Price=12000]
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - 
+Product Details: [ID=3, Name=Book, Price=500]
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - 
+Product Details: [ID=4, Name=Laptop, Price=30000]
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-26 20:53:31 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-26 20:53:56 INFO  com.app.Main  - 
+Enter product ID to add to cart:
+[main] 2021-08-26 20:54:04 INFO  com.app.Main  - Product added to cart successfully with Order ID : 19
+[main] 2021-08-26 20:54:04 INFO  com.app.Main  - 
+Welcome to Product Search
+[main] 2021-08-26 20:54:04 INFO  com.app.Main  - How would you want to search the products?
+[main] 2021-08-26 20:54:04 INFO  com.app.Main  - 1.) By name
+[main] 2021-08-26 20:54:04 INFO  com.app.Main  - 2.) By Id
+[main] 2021-08-26 20:54:04 INFO  com.app.Main  - 3.) Show all products
+[main] 2021-08-26 20:54:04 INFO  com.app.Main  - 4.) Add product to cart
+[main] 2021-08-26 20:54:04 INFO  com.app.Main  - 5.) Return back to the previous menu
+[main] 2021-08-26 20:54:04 INFO  com.app.Main  - Please enter your choice
+[main] 2021-08-26 20:54:12 INFO  com.app.Main  - 
+Taking you to the previous menu...
+[main] 2021-08-26 20:54:12 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-26 20:54:12 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-26 20:54:12 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-26 20:54:12 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-26 20:54:12 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-26 20:54:15 INFO  com.app.Main  - 
+Showing your orders: 
+[main] 2021-08-26 20:54:15 INFO  com.app.Main  - You have :1 orders in your cart. Printing them: 
+[main] 2021-08-26 20:54:15 INFO  com.app.Main  - 
+ Order ID : 19, Customer email: kaalu@gmail.com, Customer's First Name: kaalu, Customer's Last Name: kaaliya, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: In stock
+[main] 2021-08-26 20:54:15 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-26 20:54:15 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-26 20:54:15 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-26 20:54:15 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-26 20:54:15 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-26 20:54:32 INFO  com.app.Main  - 
+Enter the order ID for which you want to place the order: 
+[main] 2021-08-26 20:54:37 INFO  com.app.Main  - Customer [email=kaalu@gmail.com, fname=kaalu, lname=kaaliya, password=kallan]
+[main] 2021-08-26 20:54:37 INFO  com.app.Main  - 
+Updated the order status to: Ordered of Order ID: 19
+[main] 2021-08-26 20:54:37 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-26 20:54:37 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-26 20:54:37 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-26 20:54:37 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-26 20:54:37 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-26 20:54:47 INFO  com.app.Main  - 
+Taking you back to the previous menu...
+[main] 2021-08-26 20:54:47 WARN  com.app.Main  - 
+Please enter a digit between 1 and 4 only.
+[main] 2021-08-26 20:54:47 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-26 20:54:47 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-26 20:54:47 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-26 20:54:47 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-26 20:54:47 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-26 20:54:48 INFO  com.app.Main  - 
+Showing your orders: 
+[main] 2021-08-26 20:54:48 INFO  com.app.Main  - You have :1 orders in your cart. Printing them: 
+[main] 2021-08-26 20:54:48 INFO  com.app.Main  - 
+ Order ID : 19, Customer email: kaalu@gmail.com, Customer's First Name: kaalu, Customer's Last Name: kaaliya, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Ordered
+[main] 2021-08-26 20:54:48 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-26 20:54:48 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-26 20:54:48 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-26 20:54:48 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-26 20:54:48 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-26 20:54:55 INFO  com.app.Main  - 
+Taking you back to the previous menu...
+[main] 2021-08-26 20:54:55 WARN  com.app.Main  - 
+Please enter a digit between 1 and 4 only.
+[main] 2021-08-26 20:54:55 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-26 20:54:55 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-26 20:54:55 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-26 20:54:55 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-26 20:54:55 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-26 20:54:57 INFO  com.app.Main  - 
+Logging you out...
+[main] 2021-08-26 20:54:57 INFO  com.app.Main  - Please login: 
+[main] 2021-08-26 20:54:57 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-26 20:54:57 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-26 20:54:57 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-26 20:54:57 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-26 20:54:57 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-26 20:55:02 INFO  com.app.Main  - Enter associate login details: 
+[main] 2021-08-26 20:55:02 INFO  com.app.Main  - 1.) Enter username
+[main] 2021-08-26 20:55:06 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-26 20:55:08 INFO  com.app.Main  - 
+Associate login successful!
+[main] 2021-08-26 20:55:08 INFO  com.app.Main  - Welcome
+[main] 2021-08-26 20:55:08 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-26 20:55:08 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-26 20:55:08 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-26 20:55:08 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-26 20:55:08 INFO  com.app.Main  - 4.) View all orders in the app
+[main] 2021-08-26 20:55:08 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 
+Showing all orders
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - There are: 9 orders :
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 
+ Order ID : 12, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 1, Product Name: TV, Product Price : 20000, Order Status: In stock
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 
+ Order ID : 18, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 1, Product Name: TV, Product Price : 20000, Order Status: In stock
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 
+ Order ID : 13, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: In stock
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 
+ Order ID : 14, Customer email: nikhilsinha432@gmail.com, Customer's First Name: nik, Customer's Last Name: sin, Product ID: 2, Product Name: Mobile, Product Price : 12000, Order Status: Received
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 
+ Order ID : 1, Customer email: nsinha432@gmail.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Received
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 
+ Order ID : 16, Customer email: nikhil@gmail.com, Customer's First Name: ravi, Customer's Last Name: kumar, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: In stock
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 
+ Order ID : 17, Customer email: nikhil@yahoo.com, Customer's First Name: nikhil, Customer's Last Name: sinha, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Received
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 
+ Order ID : 19, Customer email: kaalu@gmail.com, Customer's First Name: kaalu, Customer's Last Name: kaaliya, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Ordered
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 
+ Order ID : 15, Customer email: nikhil@gmail.com, Customer's First Name: ravi, Customer's Last Name: kumar, Product ID: 4, Product Name: Laptop, Product Price : 30000, Order Status: In stock
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 
+1.) Update order as Dispatched
+[main] 2021-08-26 20:55:25 INFO  com.app.Main  - 2.) Return to previous menu
+[main] 2021-08-26 20:55:46 INFO  com.app.Main  - Enter Order ID to update status
+[main] 2021-08-26 20:55:49 INFO  com.app.Main  - 
+Order status updated successfully
+[main] 2021-08-26 20:55:49 INFO  com.app.Main  - 
+1.) Update order as Dispatched
+[main] 2021-08-26 20:55:49 INFO  com.app.Main  - 2.) Return to previous menu
+[main] 2021-08-26 20:55:54 INFO  com.app.Main  - 
+Returning to previous menu...
+[main] 2021-08-26 20:55:54 INFO  com.app.Main  - What would you want to do today admin?
+[main] 2021-08-26 20:55:54 INFO  com.app.Main  - 1.) Search Products
+[main] 2021-08-26 20:55:54 INFO  com.app.Main  - 2.) Add new Product
+[main] 2021-08-26 20:55:54 INFO  com.app.Main  - 3.) Search Customers
+[main] 2021-08-26 20:55:54 INFO  com.app.Main  - 4.) View all orders in the app
+[main] 2021-08-26 20:55:54 INFO  com.app.Main  - 5.) Logout
+[main] 2021-08-26 20:55:57 INFO  com.app.Main  - 
+Okay admin, Logging you out...
+[main] 2021-08-26 20:55:57 INFO  com.app.Main  - Please login: 
+[main] 2021-08-26 20:55:57 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-26 20:55:57 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-26 20:55:57 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-26 20:55:57 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-26 20:55:57 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-26 20:56:02 INFO  com.app.Main  - 
+Enter customer login details: 
+[main] 2021-08-26 20:56:02 INFO  com.app.Main  - 1.) Enter email
+[main] 2021-08-26 20:56:06 INFO  com.app.Main  - 2.) Enter password
+[main] 2021-08-26 20:56:10 INFO  com.app.Main  - 
+Customer logged in successfully
+[main] 2021-08-26 20:56:10 INFO  com.app.Main  - Hello kaalu kaaliya
+What would you like to do today?
+[main] 2021-08-26 20:56:10 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-26 20:56:10 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-26 20:56:10 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-26 20:56:10 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-26 20:56:10 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-26 20:56:15 INFO  com.app.Main  - 
+Showing your orders: 
+[main] 2021-08-26 20:56:15 INFO  com.app.Main  - You have :1 orders in your cart. Printing them: 
+[main] 2021-08-26 20:56:15 INFO  com.app.Main  - 
+ Order ID : 19, Customer email: kaalu@gmail.com, Customer's First Name: kaalu, Customer's Last Name: kaaliya, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Dispatched
+[main] 2021-08-26 20:56:15 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-26 20:56:15 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-26 20:56:15 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-26 20:56:15 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-26 20:56:15 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-26 20:56:32 INFO  com.app.Main  - 
+Enter the order ID for which you want to update the order status: 
+[main] 2021-08-26 20:56:35 INFO  com.app.Main  - 
+Order status updated successfully for the order ID: 19
+[main] 2021-08-26 20:56:35 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-26 20:56:35 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-26 20:56:35 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-26 20:56:35 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-26 20:56:35 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-26 20:56:38 INFO  com.app.Main  - 
+Taking you back to the previous menu...
+[main] 2021-08-26 20:56:38 WARN  com.app.Main  - 
+Please enter a digit between 1 and 4 only.
+[main] 2021-08-26 20:56:38 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-26 20:56:38 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-26 20:56:38 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-26 20:56:38 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-26 20:56:38 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-26 20:56:41 INFO  com.app.Main  - 
+Showing your orders: 
+[main] 2021-08-26 20:56:41 INFO  com.app.Main  - You have :1 orders in your cart. Printing them: 
+[main] 2021-08-26 20:56:41 INFO  com.app.Main  - 
+ Order ID : 19, Customer email: kaalu@gmail.com, Customer's First Name: kaalu, Customer's Last Name: kaaliya, Product ID: 3, Product Name: Book, Product Price : 500, Order Status: Received
+[main] 2021-08-26 20:56:41 INFO  com.app.Main  - 
+What do you want to do in your cart?
+[main] 2021-08-26 20:56:41 INFO  com.app.Main  - 1.) Place order
+[main] 2021-08-26 20:56:41 INFO  com.app.Main  - 2.) Update order as recieved
+[main] 2021-08-26 20:56:41 INFO  com.app.Main  - 3.) Delete order
+[main] 2021-08-26 20:56:41 INFO  com.app.Main  - 4.) Return back to previous menu
+[main] 2021-08-26 20:56:48 INFO  com.app.Main  - 
+Taking you back to the previous menu...
+[main] 2021-08-26 20:56:48 WARN  com.app.Main  - 
+Please enter a digit between 1 and 4 only.
+[main] 2021-08-26 20:56:48 INFO  com.app.Main  - 
+1.) Search products
+[main] 2021-08-26 20:56:48 INFO  com.app.Main  - 2.) View your orders
+[main] 2021-08-26 20:56:48 INFO  com.app.Main  - 3.) View Cart total
+[main] 2021-08-26 20:56:48 INFO  com.app.Main  - 4.) Logout
+[main] 2021-08-26 20:56:48 INFO  com.app.Main  - 
+Please enter your choice
+[main] 2021-08-26 20:56:50 INFO  com.app.Main  - 
+Logging you out...
+[main] 2021-08-26 20:56:50 INFO  com.app.Main  - Please login: 
+[main] 2021-08-26 20:56:50 INFO  com.app.Main  - 1.) Associate Login
+[main] 2021-08-26 20:56:50 INFO  com.app.Main  - 2.) Customer Registration
+[main] 2021-08-26 20:56:50 INFO  com.app.Main  - 3.) Customer Login
+[main] 2021-08-26 20:56:50 INFO  com.app.Main  - 4.) Close App
+[main] 2021-08-26 20:56:50 INFO  com.app.Main  - 
+ Please enter your choice: 
+[main] 2021-08-26 20:56:57 INFO  com.app.Main  - 
+Thanks for shopping with us! Hope to see you soon :)

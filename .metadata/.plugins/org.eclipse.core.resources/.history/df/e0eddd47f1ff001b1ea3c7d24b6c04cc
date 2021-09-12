@@ -1,5 +1,0 @@
-package com.customer.create.service;
-
-public interface CustomerCreateService {
-
-}
